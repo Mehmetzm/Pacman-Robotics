@@ -1,0 +1,28 @@
+ros2 launch emaros_bringup emaros_bringup.launch.py
+ros2 run teleop_twist_keyboard teleop_twist_keyboard
+ros2 run emaros_control motor_control
+ros2 run emaros_camera_stream camera_stream
+ros2 service call /floor_leds emaros_floor_leds/srv/FloorLeds "{led0: 128, led1: 128, led2: 128, led3: 128}"
+ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 0.5, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0.0}}"
+
+//colcon build
+colcon build --packages-select damt_drive;source install/setup.bash
+colcon build --packages-select damt_vision;source install/setup.bash
+colcon build --packages-select damt_bringup;source install/setup.bash
+colcon build --packages-select damt_drive --cmake-args=DCMAKE_BUILD_TYPE=Release ;source install/setup.bash
+colcon build --cmake-args=DCMAKE_BUILD_TYPE=Release ;source install/setup.bash
+colcon build ;source install/setup.bash
+
+//alle emaros klassen starten
+ros2 launch damt_bringup emaros.launch.py
+ros2 launch damt_bringup linefollower.launch.py
+
+
+ros2 node list
+ros2 topic list
+ros2 topic echo <topic_name>
+ros2 topic echo /floor_sensors | grep 'c_'
+
+
+//ros node beenden
+pkill -f <node_name>
