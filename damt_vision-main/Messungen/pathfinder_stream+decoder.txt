@@ -1,0 +1,61 @@
+data: '{"CPU Usage": "77.9%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "54.1%", "RAM Usage": "33.8%"}'
+---
+data: '{"CPU Usage": "73.2%", "RAM Usage": "33.8%"}'
+---
+data: '{"CPU Usage": "79.2%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "77.1%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "80.3%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "79.7%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "74.9%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "78.0%", "RAM Usage": "33.6%"}'
+---
+data: '{"CPU Usage": "81.5%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "74.8%", "RAM Usage": "33.6%"}'
+---
+data: '{"CPU Usage": "79.2%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "72.9%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "73.2%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "77.4%", "RAM Usage": "33.6%"}'
+---
+data: '{"CPU Usage": "77.4%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "77.6%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "75.1%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "72.2%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "75.1%", "RAM Usage": "33.6%"}'
+---
+data: '{"CPU Usage": "75.6%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "77.2%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "79.7%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "72.5%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "77.6%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "74.4%", "RAM Usage": "33.6%"}'
+---
+data: '{"CPU Usage": "78.2%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "74.0%", "RAM Usage": "33.6%"}'
+---
+data: '{"CPU Usage": "75.8%", "RAM Usage": "33.7%"}'
+---
+data: '{"CPU Usage": "73.4%", "RAM Usage": "33.6%"}'
+---
+data: '{"CPU Usage": "77.1%", "RAM Usage": "33.6%"}'

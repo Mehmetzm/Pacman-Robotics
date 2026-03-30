@@ -1,0 +1,2 @@
+pathfinder deutlich aufwendiger, da alle 0.05 Sekunden gepubblisht wird. Bei 0.2 Sekunden ist ie CPU Usage auch bei ca 20-30%
+    -vorerst arbeiten wir mit 0.2 Sekunden. Weitere Test müssen zeigen welche Framerate optimal ist.

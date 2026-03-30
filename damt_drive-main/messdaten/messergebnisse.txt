@@ -1,0 +1,3 @@
+sensormessug_Boden.txt  |  Mittelwert: 30213.8  |  Median: 30201.8  |  Spannweite: 7273  |  Untergrenze Boden: 26576
+sensormessug_Schwarz.txt Mittelwert: 4693.32  |  Median: 5215  |  Spannweite: 3273  |  Obergrenze Schwarz: 6850
+schwarz_threshold: 7000 --> für eine scharfe Grenze, sollte der Sensorwert so tief Fallen

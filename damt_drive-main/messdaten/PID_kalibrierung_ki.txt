@@ -1,0 +1,1604 @@
+////////////////////////////////////////////////////////////// PID-setup Teil ki Versuch 1: kd = 1;
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: -0.78252 | diff: -19563 | msg.angular.z: -1.64329
+error: -0.78252 | diff: -19563 | msg.angular.z: -1.64329
+error: -0.78252 | diff: -19563 | msg.angular.z: -2.42581
+error: -0.78252 | diff: -19563 | msg.angular.z: -3.20833
+error: -0.78252 | diff: -19563 | msg.angular.z: -3.99085
+error: 0.11984 | diff: 2996 | msg.angular.z: -2.87842
+error: 0.11984 | diff: 2996 | msg.angular.z: -3.66094
+error: 0.11984 | diff: 2996 | msg.angular.z: -3.5411
+error: 0.11984 | diff: 2996 | msg.angular.z: -3.42126
+error: 0.11984 | diff: 2996 | msg.angular.z: -3.30142
+error: 0.121 | diff: 3025 | msg.angular.z: -3.17914
+error: 0.121 | diff: 3025 | msg.angular.z: -3.0593
+error: 0.121 | diff: 3025 | msg.angular.z: -2.9383
+error: 0.121 | diff: 3025 | msg.angular.z: -2.8173
+error: 0.121 | diff: 3025 | msg.angular.z: -2.6963
+error: 0.1242 | diff: 3105 | msg.angular.z: -2.56858
+error: 0.1242 | diff: 3105 | msg.angular.z: -2.44758
+error: 0.1242 | diff: 3105 | msg.angular.z: -2.32338
+error: 0.1242 | diff: 3105 | msg.angular.z: -2.19918
+error: 0.1242 | diff: 3105 | msg.angular.z: -2.07498
+error: 0.21164 | diff: 5291 | msg.angular.z: -1.76716
+error: 0.21164 | diff: 5291 | msg.angular.z: -1.64296
+error: 0.21164 | diff: 5291 | msg.angular.z: -1.43132
+error: 0.21164 | diff: 5291 | msg.angular.z: -1.21968
+error: 0.21164 | diff: 5291 | msg.angular.z: -1.00804
+error: 0.37404 | diff: 9351 | msg.angular.z: -0.455356
+error: 0.37404 | diff: 9351 | msg.angular.z: -0.243716
+error: 0.37404 | diff: 9351 | msg.angular.z: 0.130324
+error: 0.37404 | diff: 9351 | msg.angular.z: 0.504364
+error: 0.37404 | diff: 9351 | msg.angular.z: 0.878404
+error: 0.68772 | diff: 17193 | msg.angular.z: 1.91117
+error: 0.68772 | diff: 17193 | msg.angular.z: 2.28521
+error: 0.68772 | diff: 17193 | msg.angular.z: 2.97293
+error: 0.68772 | diff: 17193 | msg.angular.z: 3.66065
+error: 0.68772 | diff: 17193 | msg.angular.z: 4.34837
+error: 0.68772 | diff: 17193 | msg.angular.z: 5.03609
+error: 0.68772 | diff: 17193 | msg.angular.z: 5.72381
+error: 0.68772 | diff: 17193 | msg.angular.z: 6.41153
+error: 0.68772 | diff: 17193 | msg.angular.z: 7.09925
+error: 0.68772 | diff: 17193 | msg.angular.z: 7.78697
+Linie verlassen bei: 28091 32881 9335 24828
+Linie verlassen bei: 28091 32881 9335 24828
+Linie verlassen bei: 28091 32881 9335 24828
+Linie verlassen bei: 28091 32881 9335 24828
+Linie verlassen bei: 30133 32840 23129 24354
+Linie verlassen bei: 30133 32840 23129 24354
+Linie verlassen bei: 30133 32840 23129 24354
+Linie verlassen bei: 30133 32840 23129 24354
+Linie verlassen bei: 30133 32840 23129 24354
+Linie verlassen bei: 29965 32511 25289 24116
+Linie verlassen bei: 29965 32511 25289 24116
+Linie verlassen bei: 29965 32511 25289 24116
+Linie verlassen bei: 29965 32511 25289 24116
+Linie verlassen bei: 29965 32511 25289 24116
+Linie verlassen bei: 30899 33661 25980 25636
+Linie verlassen bei: 30899 33661 25980 25636
+Linie verlassen bei: 30899 33661 25980 25636
+Linie verlassen bei: 30899 33661 25980 25636
+Linie verlassen bei: 30899 33661 25980 25636
+Linie verlassen bei: 30739 33439 26392 25900
+Linie verlassen bei: 30739 33439 26392 25900
+Linie verlassen bei: 30739 33439 26392 25900
+Linie verlassen bei: 30739 33439 26392 25900
+Linie verlassen bei: 30739 33439 26392 25900
+Linie verlassen bei: 31412 33432 26453 25965
+Linie verlassen bei: 31412 33432 26453 25965
+Linie verlassen bei: 31412 33432 26453 25965
+Linie verlassen bei: 31412 33432 26453 25965
+Linie verlassen bei: 31412 33432 26453 25965
+Linie verlassen bei: 31533 33365 26348 25897
+Linie verlassen bei: 31533 33365 26348 25897
+Linie verlassen bei: 31533 33365 26348 25897
+Linie verlassen bei: 31533 33365 26348 25897
+Linie verlassen bei: 31533 33365 26348 25897
+Linie verlassen bei: 31700 33300 26370 25835
+Linie verlassen bei: 31700 33300 26370 25835
+Linie verlassen bei: 31700 33300 26370 25835
+Linie verlassen bei: 31700 33300 26370 25835
+Linie verlassen bei: 31700 33300 26370 25835
+Linie verlassen bei: 31880 33391 26385 25831
+Linie verlassen bei: 31880 33391 26385 25831
+Linie verlassen bei: 31880 33391 26385 25831
+Linie verlassen bei: 31880 33391 26385 25831
+Linie verlassen bei: 31880 33391 26385 25831
+Linie verlassen bei: 31834 33444 26059 25607
+Linie verlassen bei: 31834 33444 26059 25607
+Linie verlassen bei: 31834 33444 26059 25607
+Linie verlassen bei: 31834 33444 26059 25607
+Linie verlassen bei: 31834 33444 26059 25607
+Linie verlassen bei: 31648 33228 25744 25553
+Linie verlassen bei: 31648 33228 25744 25553
+Linie verlassen bei: 31648 33228 25744 25553
+Linie verlassen bei: 31648 33228 25744 25553
+Linie verlassen bei: 31648 33228 25744 25553
+Linie verlassen bei: 30950 32747 25429 25271
+Linie verlassen bei: 30950 32747 25429 25271
+Linie verlassen bei: 30950 32747 25429 25271
+Linie verlassen bei: 30950 32747 25429 25271
+Linie verlassen bei: 30950 32747 25429 25271
+Linie verlassen bei: 30384 31988 24348 24311
+Linie verlassen bei: 30384 31988 24348 24311
+Linie verlassen bei: 30384 31988 24348 24311
+Linie verlassen bei: 30384 31988 24348 24311
+Linie verlassen bei: 30384 31988 24348 24311
+Linie verlassen bei: 30300 32029 24334 24384
+Linie verlassen bei: 30300 32029 24334 24384
+Linie verlassen bei: 30300 32029 24334 24384
+Linie verlassen bei: 30300 32029 24334 24384
+Linie verlassen bei: 30300 32029 24334 24384
+Linie verlassen bei: 30295 32012 24364 24354
+Linie verlassen bei: 30295 32012 24364 24354
+Linie verlassen bei: 30295 32012 24364 24354
+Linie verlassen bei: 30295 32012 24364 24354
+Linie verlassen bei: 30295 32012 24364 24354
+Linie verlassen bei: 30261 31975 24279 24281
+Linie verlassen bei: 30261 31975 24279 24281
+Linie verlassen bei: 30261 31975 24279 24281
+Linie verlassen bei: 30261 31975 24279 24281
+Linie verlassen bei: 30261 31975 24279 24281
+Linie verlassen bei: 30284 31994 24292 24325
+Linie verlassen bei: 30284 31994 24292 24325
+Linie verlassen bei: 30284 31994 24292 24325
+Linie verlassen bei: 30284 31994 24292 24325
+Linie verlassen bei: 30284 31994 24292 24325
+Linie verlassen bei: 30269 31929 24292 24316
+Linie verlassen bei: 30269 31929 24292 24316
+Linie verlassen bei: 30269 31929 24292 24316
+Linie verlassen bei: 30269 31929 24292 24316
+Linie verlassen bei: 30269 31929 24292 24316
+Linie verlassen bei: 30281 31933 24343 24325
+Linie verlassen bei: 30281 31933 24343 24325
+Linie verlassen bei: 30281 31933 24343 24325
+Linie verlassen bei: 30281 31933 24343 24325
+Linie verlassen bei: 30281 31933 24343 24325
+Linie verlassen bei: 30274 31927 24287 24299
+Linie verlassen bei: 30274 31927 24287 24299
+Linie verlassen bei: 30274 31927 24287 24299
+Linie verlassen bei: 30274 31927 24287 24299
+Linie verlassen bei: 30274 31927 24287 24299
+Linie verlassen bei: 30302 32015 24340 24340
+Linie verlassen bei: 30302 32015 24340 24340
+Linie verlassen bei: 30302 32015 24340 24340
+Linie verlassen bei: 30302 32015 24340 24340
+Linie verlassen bei: 30302 32015 24340 24340
+Linie verlassen bei: 30254 31982 24364 24355
+Linie verlassen bei: 30254 31982 24364 24355
+Linie verlassen bei: 30254 31982 24364 24355
+Linie verlassen bei: 30254 31982 24364 24355
+Linie verlassen bei: 30254 31982 24364 24355
+Linie verlassen bei: 30259 31973 24306 24300
+Linie verlassen bei: 30259 31973 24306 24300
+Linie verlassen bei: 30259 31973 24306 24300
+Linie verlassen bei: 30259 31973 24306 24300
+Linie verlassen bei: 30259 31973 24306 24300
+Linie verlassen bei: 30246 31962 24298 24339
+Linie verlassen bei: 30246 31962 24298 24339
+Linie verlassen bei: 30246 31962 24298 24339
+Linie verlassen bei: 30246 31962 24298 24339
+Linie verlassen bei: 30246 31962 24298 24339
+Linie verlassen bei: 30295 31968 24379 24383
+Linie verlassen bei: 30295 31968 24379 24383
+Linie verlassen bei: 30295 31968 24379 24383
+Linie verlassen bei: 30295 31968 24379 24383
+Linie verlassen bei: 30295 31968 24379 24383
+Linie verlassen bei: 30340 32000 24379 24324
+Linie verlassen bei: 30340 32000 24379 24324
+Linie verlassen bei: 30340 32000 24379 24324
+Linie verlassen bei: 30340 32000 24379 24324
+Linie verlassen bei: 30340 32000 24379 24324
+Linie verlassen bei: 30329 32005 24332 24374
+Linie verlassen bei: 30329 32005 24332 24374
+Linie verlassen bei: 30329 32005 24332 24374
+Linie verlassen bei: 30329 32005 24332 24374
+Linie verlassen bei: 30329 32005 24332 24374
+Linie verlassen bei: 30284 32064 24345 24328
+Linie verlassen bei: 30284 32064 24345 24328
+Linie verlassen bei: 30284 32064 24345 24328
+Linie verlassen bei: 30284 32064 24345 24328
+Linie verlassen bei: 30284 32064 24345 24328
+Linie verlassen bei: 30266 31989 24357 24356
+Linie verlassen bei: 30266 31989 24357 24356
+Linie verlassen bei: 30266 31989 24357 24356
+Linie verlassen bei: 30266 31989 24357 24356
+Linie verlassen bei: 30266 31989 24357 24356
+Linie verlassen bei: 30277 32007 24318 24356
+Linie verlassen bei: 30277 32007 24318 24356
+Linie verlassen bei: 30277 32007 24318 24356
+Linie verlassen bei: 30277 32007 24318 24356
+Linie verlassen bei: 30277 32007 24318 24356
+Linie verlassen bei: 30287 31999 24340 24328
+Linie verlassen bei: 30287 31999 24340 24328
+Linie verlassen bei: 30287 31999 24340 24328
+Linie verlassen bei: 30287 31999 24340 24328
+Linie verlassen bei: 30287 31999 24340 24328
+Linie verlassen bei: 30290 32052 24398 24392
+Linie verlassen bei: 30290 32052 24398 24392
+Linie verlassen bei: 30290 32052 24398 24392
+Linie verlassen bei: 30290 32052 24398 24392
+Linie verlassen bei: 30290 32052 24398 24392
+Linie verlassen bei: 30329 31976 24369 24365
+Linie verlassen bei: 30329 31976 24369 24365
+Linie verlassen bei: 30329 31976 24369 24365
+Linie verlassen bei: 30329 31976 24369 24365
+Linie verlassen bei: 30329 31976 24369 24365
+Linie verlassen bei: 30323 31981 24322 24316
+Linie verlassen bei: 30323 31981 24322 24316
+Linie verlassen bei: 30323 31981 24322 24316
+Linie verlassen bei: 30323 31981 24322 24316
+Linie verlassen bei: 30323 31981 24322 24316
+Linie verlassen bei: 30337 32063 24337 24373
+Linie verlassen bei: 30337 32063 24337 24373
+Linie verlassen bei: 30337 32063 24337 24373
+Linie verlassen bei: 30337 32063 24337 24373
+Linie verlassen bei: 30337 32063 24337 24373
+Linie verlassen bei: 30337 32063 24337 24373
+Linie verlassen bei: 30303 31953 24353 24345
+Linie verlassen bei: 30303 31953 24353 24345
+Linie verlassen bei: 30303 31953 24353 24345
+Linie verlassen bei: 30303 31953 24353 24345
+Linie verlassen bei: 30329 31997 24373 24326
+Linie verlassen bei: 30329 31997 24373 24326
+Linie verlassen bei: 30329 31997 24373 24326
+Linie verlassen bei: 30329 31997 24373 24326
+Linie verlassen bei: 30329 31997 24373 24326
+Linie verlassen bei: 30284 31985 24332 24365
+Linie verlassen bei: 30284 31985 24332 24365
+Linie verlassen bei: 30284 31985 24332 24365
+Linie verlassen bei: 30284 31985 24332 24365
+Linie verlassen bei: 30284 31985 24332 24365
+Linie verlassen bei: 30287 32017 24343 24345
+Linie verlassen bei: 30287 32017 24343 24345
+Linie verlassen bei: 30287 32017 24343 24345
+Linie verlassen bei: 30287 32017 24343 24345
+Linie verlassen bei: 30287 32017 24343 24345
+Linie verlassen bei: 30338 32044 24338 24316
+Linie verlassen bei: 30338 32044 24338 24316
+Linie verlassen bei: 30338 32044 24338 24316
+Linie verlassen bei: 30338 32044 24338 24316
+Linie verlassen bei: 30338 32044 24338 24316
+Linie verlassen bei: 30333 31992 24336 24372
+Linie verlassen bei: 30333 31992 24336 24372
+Linie verlassen bei: 30333 31992 24336 24372
+Linie verlassen bei: 30333 31992 24336 24372
+Linie verlassen bei: 30333 31992 24336 24372
+Linie verlassen bei: 30311 32020 24316 24364
+Linie verlassen bei: 30311 32020 24316 24364
+Linie verlassen bei: 30283 32065 24381 24366
+Linie verlassen bei: 30283 32065 24381 24366
+Linie verlassen bei: 30283 32065 24381 24366
+Linie verlassen bei: 30283 32065 24381 24366
+Linie verlassen bei: 30283 32065 24381 24366
+Linie verlassen bei: 30271 32047 24360 24339
+Linie verlassen bei: 30271 32047 24360 24339
+Linie verlassen bei: 30271 32047 24360 24339
+Linie verlassen bei: 30271 32047 24360 24339
+Linie verlassen bei: 30271 32047 24360 24339
+Linie verlassen bei: 30272 31975 24308 24355
+Linie verlassen bei: 30272 31975 24308 24355
+Linie verlassen bei: 30272 31975 24308 24355
+Linie verlassen bei: 30272 31975 24308 24355
+Linie verlassen bei: 30272 31975 24308 24355
+Linie verlassen bei: 30300 31952 24323 24337
+Linie verlassen bei: 30300 31952 24323 24337
+Linie verlassen bei: 30300 31952 24323 24337
+Linie verlassen bei: 30300 31952 24323 24337
+Linie verlassen bei: 30300 31952 24323 24337
+Linie verlassen bei: 30295 32007 24285 24337
+Linie verlassen bei: 30295 32007 24285 24337
+Linie verlassen bei: 30295 32007 24285 24337
+Linie verlassen bei: 30295 32007 24285 24337
+Linie verlassen bei: 30295 32007 24285 24337
+Linie verlassen bei: 30325 32040 24312 24339
+Linie verlassen bei: 30325 32040 24312 24339
+Linie verlassen bei: 30325 32040 24312 24339
+Linie verlassen bei: 30325 32040 24312 24339
+Linie verlassen bei: 30325 32040 24312 24339
+Linie verlassen bei: 30518 32191 24541 24557
+Linie verlassen bei: 30518 32191 24541 24557
+Linie verlassen bei: 30518 32191 24541 24557
+Linie verlassen bei: 30518 32191 24541 24557
+Linie verlassen bei: 30518 32191 24541 24557
+Linie verlassen bei: 22128 30215 16545 22663
+Linie verlassen bei: 22128 30215 16545 22663
+Linie verlassen bei: 22128 30215 16545 22663
+Linie verlassen bei: 22128 30215 16545 22663
+Linie verlassen bei: 22128 30215 16545 22663
+Linie verlassen bei: 16048 20303 5352 15562
+error: 0.68772 | diff: 17193 | msg.angular.z: 8.47469
+error: 0.68772 | diff: 17193 | msg.angular.z: 9.16241
+error: 0.68772 | diff: 17193 | msg.angular.z: 9.85013
+error: 0.68772 | diff: 17193 | msg.angular.z: 10.5379
+error: 0.68772 | diff: 17193 | msg.angular.z: 11.2256
+error: 0.3984 | diff: 9960 | msg.angular.z: 11.3057
+error: 0.3984 | diff: 9960 | msg.angular.z: 11.9934
+error: 0.3984 | diff: 9960 | msg.angular.z: 12.3918
+error: 0.3984 | diff: 9960 | msg.angular.z: 12.7902
+error: 0.3984 | diff: 9960 | msg.angular.z: 13.1886
+error: 0.3984 | diff: 9960 | msg.angular.z: 13.587
+error: 0.3984 | diff: 9960 | msg.angular.z: 13.9854
+error: 0.3984 | diff: 9960 | msg.angular.z: 14.3838
+error: 0.3984 | diff: 9960 | msg.angular.z: 14.7822
+error: 0.3984 | diff: 9960 | msg.angular.z: 15.1806
+error: 0.75076 | diff: 18769 | msg.angular.z: 16.319
+error: 0.75076 | diff: 18769 | msg.angular.z: 16.7174
+error: 0.75076 | diff: 18769 | msg.angular.z: 17.4682
+error: 0.75076 | diff: 18769 | msg.angular.z: 18.2189
+error: 0.75076 | diff: 18769 | msg.angular.z: 18.9697
+error: 0.31836 | diff: 7959 | msg.angular.z: 18.8124
+error: 0.31836 | diff: 7959 | msg.angular.z: 19.5632
+error: 0.31836 | diff: 7959 | msg.angular.z: 19.8815
+error: 0.31836 | diff: 7959 | msg.angular.z: 20.1999
+error: 0.31836 | diff: 7959 | msg.angular.z: 20.5182
+error: -0.18368 | diff: -4592 | msg.angular.z: 19.7823
+error: -0.18368 | diff: -4592 | msg.angular.z: 20.1007
+error: -0.18368 | diff: -4592 | msg.angular.z: 19.917
+error: -0.18368 | diff: -4592 | msg.angular.z: 19.7333
+error: -0.18368 | diff: -4592 | msg.angular.z: 19.5496
+error: -0.362 | diff: -9050 | msg.angular.z: 18.9915
+error: -0.362 | diff: -9050 | msg.angular.z: 18.8078
+error: -0.362 | diff: -9050 | msg.angular.z: 18.4458
+error: -0.362 | diff: -9050 | msg.angular.z: 18.0838
+error: -0.362 | diff: -9050 | msg.angular.z: 17.7218
+error: -0.12108 | diff: -3027 | msg.angular.z: 17.8657
+error: -0.12108 | diff: -3027 | msg.angular.z: 17.5037
+error: -0.12108 | diff: -3027 | msg.angular.z: 17.3827
+error: -0.12108 | diff: -3027 | msg.angular.z: 17.2616
+error: -0.12108 | diff: -3027 | msg.angular.z: 17.1405
+error: 0.09172 | diff: 2293 | msg.angular.z: 17.4663
+error: 0.09172 | diff: 2293 | msg.angular.z: 17.3452
+error: 0.09172 | diff: 2293 | msg.angular.z: 17.4369
+error: 0.09172 | diff: 2293 | msg.angular.z: 17.5287
+error: 0.09172 | diff: 2293 | msg.angular.z: 17.6204
+Linie verlassen bei: 30437 18885 25866 17625
+Linie verlassen bei: 30437 18885 25866 17625
+Linie verlassen bei: 30437 18885 25866 17625
+Linie verlassen bei: 30437 18885 25866 17625
+Linie verlassen bei: 26074 26829 26067 24280
+Linie verlassen bei: 26074 26829 26067 24280
+Linie verlassen bei: 26074 26829 26067 24280
+Linie verlassen bei: 26074 26829 26067 24280
+Linie verlassen bei: 26074 26829 26067 24280
+Linie verlassen bei: 29810 31644 24596 24374
+Linie verlassen bei: 29810 31644 24596 24374
+Linie verlassen bei: 29810 31644 24596 24374
+Linie verlassen bei: 29810 31644 24596 24374
+Linie verlassen bei: 29810 31644 24596 24374
+Linie verlassen bei: 23181 29876 10408 24286
+Linie verlassen bei: 23181 29876 10408 24286
+Linie verlassen bei: 23181 29876 10408 24286
+Linie verlassen bei: 23181 29876 10408 24286
+Linie verlassen bei: 23181 29876 10408 24286
+Linie verlassen bei: 18766 7756 24872 20146
+error: -0.4404 | diff: -11010 | msg.angular.z: 16.5946
+error: -0.4404 | diff: -11010 | msg.angular.z: 16.6864
+error: -0.4404 | diff: -11010 | msg.angular.z: 16.246
+error: -0.4404 | diff: -11010 | msg.angular.z: 15.8056
+error: -0.4404 | diff: -11010 | msg.angular.z: 15.3652
+error: -0.4404 | diff: -11010 | msg.angular.z: 14.9248
+error: -0.4404 | diff: -11010 | msg.angular.z: 14.4844
+error: -0.4404 | diff: -11010 | msg.angular.z: 14.044
+error: -0.4404 | diff: -11010 | msg.angular.z: 13.6036
+error: -0.4404 | diff: -11010 | msg.angular.z: 13.1632
+error: -0.4404 | diff: -11010 | msg.angular.z: 12.7228
+error: -0.4404 | diff: -11010 | msg.angular.z: 12.2824
+error: -0.4404 | diff: -11010 | msg.angular.z: 11.842
+error: -0.4404 | diff: -11010 | msg.angular.z: 11.4016
+error: -0.4404 | diff: -11010 | msg.angular.z: 10.9612
+error: -0.4404 | diff: -11010 | msg.angular.z: 10.5208
+Linie verlassen bei: 31078 26981 26582 10365
+Linie verlassen bei: 31078 26981 26582 10365
+Linie verlassen bei: 31078 26981 26582 10365
+Linie verlassen bei: 31132 33330 25773 24041
+Linie verlassen bei: 31132 33330 25773 24041
+Linie verlassen bei: 31132 33330 25773 24041
+Linie verlassen bei: 31132 33330 25773 24041
+Linie verlassen bei: 31132 33330 25773 24041
+Linie verlassen bei: 22468 33481 23590 25980
+Linie verlassen bei: 22468 33481 23590 25980
+Linie verlassen bei: 22468 33481 23590 25980
+Linie verlassen bei: 22468 33481 23590 25980
+Linie verlassen bei: 22468 33481 23590 25980
+Linie verlassen bei: 28597 26569 24176 23820
+Linie verlassen bei: 28597 26569 24176 23820
+Linie verlassen bei: 28597 26569 24176 23820
+Linie verlassen bei: 28597 26569 24176 23820
+Linie verlassen bei: 28597 26569 24176 23820
+Linie verlassen bei: 29974 31548 24684 24618
+Linie verlassen bei: 29974 31548 24684 24618
+Linie verlassen bei: 29974 31548 24684 24618
+Linie verlassen bei: 29974 31548 24684 24618
+Linie verlassen bei: 29974 31548 24684 24618
+Linie verlassen bei: 30577 32981 24399 25733
+Linie verlassen bei: 30577 32981 24399 25733
+Linie verlassen bei: 30577 32981 24399 25733
+Linie verlassen bei: 30577 32981 24399 25733
+Linie verlassen bei: 30577 32981 24399 25733
+Linie verlassen bei: 28355 31404 17822 24105
+Linie verlassen bei: 28355 31404 17822 24105
+Linie verlassen bei: 28355 31404 17822 24105
+Linie verlassen bei: 28355 31404 17822 24105
+Linie verlassen bei: 28355 31404 17822 24105
+Linie verlassen bei: 28015 31654 12536 24230
+Linie verlassen bei: 28015 31654 12536 24230
+Linie verlassen bei: 28015 31654 12536 24230
+Linie verlassen bei: 28015 31654 12536 24230
+Linie verlassen bei: 28015 31654 12536 24230
+Linie verlassen bei: 28359 32599 9820 24985
+Linie verlassen bei: 28359 32599 9820 24985
+Linie verlassen bei: 28359 32599 9820 24985
+Linie verlassen bei: 28359 32599 9820 24985
+Linie verlassen bei: 28359 32599 9820 24985
+Linie verlassen bei: 27191 32289 7054 23855
+error: -0.4404 | diff: -11010 | msg.angular.z: 10.0804
+error: -0.4404 | diff: -11010 | msg.angular.z: 9.63996
+error: -0.4404 | diff: -11010 | msg.angular.z: 9.19956
+error: -0.4404 | diff: -11010 | msg.angular.z: 8.75916
+error: -0.4404 | diff: -11010 | msg.angular.z: 8.31876
+error: -0.4404 | diff: -11010 | msg.angular.z: 7.87836
+error: -0.4404 | diff: -11010 | msg.angular.z: 7.43796
+error: -0.4404 | diff: -11010 | msg.angular.z: 6.99756
+error: -0.4404 | diff: -11010 | msg.angular.z: 6.55716
+error: -0.4404 | diff: -11010 | msg.angular.z: 6.11676
+error: 0.77532 | diff: 19383 | msg.angular.z: 8.22937
+error: 0.77532 | diff: 19383 | msg.angular.z: 7.78897
+error: 0.77532 | diff: 19383 | msg.angular.z: 8.56429
+error: 0.77532 | diff: 19383 | msg.angular.z: 9.33961
+error: 0.77532 | diff: 19383 | msg.angular.z: 10.1149
+error: 0.56956 | diff: 14239 | msg.angular.z: 10.4582
+error: 0.56956 | diff: 14239 | msg.angular.z: 11.2335
+error: 0.56956 | diff: 14239 | msg.angular.z: 11.803
+error: 0.56956 | diff: 14239 | msg.angular.z: 12.3726
+error: 0.56956 | diff: 14239 | msg.angular.z: 12.9422
+error: 0.29636 | diff: 7409 | msg.angular.z: 12.938
+error: 0.29636 | diff: 7409 | msg.angular.z: 13.5076
+error: 0.29636 | diff: 7409 | msg.angular.z: 13.8039
+error: 0.29636 | diff: 7409 | msg.angular.z: 14.1003
+error: 0.29636 | diff: 7409 | msg.angular.z: 14.3966
+error: -0.59228 | diff: -14807 | msg.angular.z: 12.8269
+error: -0.59228 | diff: -14807 | msg.angular.z: 13.1232
+error: -0.59228 | diff: -14807 | msg.angular.z: 12.5309
+error: -0.59228 | diff: -14807 | msg.angular.z: 11.9387
+error: -0.59228 | diff: -14807 | msg.angular.z: 11.3464
+Linie verlassen bei: 31327 31520 26240 8908
+Linie verlassen bei: 31327 31520 26240 8908
+Linie verlassen bei: 31327 31520 26240 8908
+Linie verlassen bei: 31327 31520 26240 8908
+Linie verlassen bei: 31593 33239 26328 24924
+Linie verlassen bei: 31593 33239 26328 24924
+Linie verlassen bei: 31593 33239 26328 24924
+Linie verlassen bei: 31593 33239 26328 24924
+Linie verlassen bei: 31593 33239 26328 24924
+Linie verlassen bei: 10606 26411 8253 26034
+error: 0.6322 | diff: 15805 | msg.angular.z: 13.3255
+error: 0.6322 | diff: 15805 | msg.angular.z: 12.7332
+error: 0.6322 | diff: 15805 | msg.angular.z: 13.3654
+error: 0.6322 | diff: 15805 | msg.angular.z: 13.9976
+error: 0.6322 | diff: 15805 | msg.angular.z: 14.6298
+rechts abbiegen bei: links außen: 15031 7554 15902 6388
+rechts abbiegen bei: links außen: 15031 7554 15902 6388
+rechts abbiegen bei: links außen: 15031 7554 15902 6388
+rechts abbiegen bei: links außen: 15031 7554 15902 6388
+rechts abbiegen bei: links außen: 10889 24601 5098 23101
+links abbiegen bei: 10889 24601 5098 23101
+links abbiegen bei: 10889 24601 5098 23101
+links abbiegen bei: 10889 24601 5098 23101
+links abbiegen bei: 10889 24601 5098 23101
+links abbiegen bei: 8526 25286 11652 23860
+error: 0.6704 | diff: 16760 | msg.angular.z: 15.3422
+error: 0.6704 | diff: 16760 | msg.angular.z: 15.9744
+error: 0.6704 | diff: 16760 | msg.angular.z: 16.6448
+error: 0.6704 | diff: 16760 | msg.angular.z: 17.3152
+error: 0.6704 | diff: 16760 | msg.angular.z: 17.9856
+error: 0.0928 | diff: 2320 | msg.angular.z: 17.4431
+error: 0.0928 | diff: 2320 | msg.angular.z: 18.1135
+error: 0.0928 | diff: 2320 | msg.angular.z: 18.2063
+error: 0.0928 | diff: 2320 | msg.angular.z: 18.2991
+error: 0.0928 | diff: 2320 | msg.angular.z: 18.3919
+error: -0.76112 | diff: -19028 | msg.angular.z: 16.6914
+error: -0.76112 | diff: -19028 | msg.angular.z: 16.7842
+error: -0.76112 | diff: -19028 | msg.angular.z: 16.0231
+error: -0.76112 | diff: -19028 | msg.angular.z: 15.262
+error: -0.76112 | diff: -19028 | msg.angular.z: 14.5009
+error: -0.76112 | diff: -19028 | msg.angular.z: 13.7398
+error: -0.76112 | diff: -19028 | msg.angular.z: 12.9786
+error: -0.76112 | diff: -19028 | msg.angular.z: 12.2175
+error: -0.76112 | diff: -19028 | msg.angular.z: 11.4564
+error: -0.76112 | diff: -19028 | msg.angular.z: 10.6953
+Linie verlassen bei: 30815 32630 25944 24621
+Linie verlassen bei: 30815 32630 25944 24621
+Linie verlassen bei: 30815 32630 25944 24621
+Linie verlassen bei: 30815 32630 25944 24621
+Linie verlassen bei: 24185 31784 11490 25805
+Linie verlassen bei: 24185 31784 11490 25805
+Linie verlassen bei: 24185 31784 11490 25805
+Linie verlassen bei: 24185 31784 11490 25805
+Linie verlassen bei: 24185 31784 11490 25805
+Linie verlassen bei: 20376 19372 21369 10926
+Linie verlassen bei: 20376 19372 21369 10926
+Linie verlassen bei: 20376 19372 21369 10926
+Linie verlassen bei: 20376 19372 21369 10926
+Linie verlassen bei: 20376 19372 21369 10926
+Linie verlassen bei: 8861 23465 19631 23538
+error: 0.58416 | diff: 14604 | msg.angular.z: 12.7593
+error: 0.58416 | diff: 14604 | msg.angular.z: 11.9981
+error: 0.58416 | diff: 14604 | msg.angular.z: 12.5823
+error: 0.58416 | diff: 14604 | msg.angular.z: 13.1665
+error: 0.58416 | diff: 14604 | msg.angular.z: 13.7506
+error: -0.85888 | diff: -21472 | msg.angular.z: 11.3044
+error: -0.85888 | diff: -21472 | msg.angular.z: 11.8886
+error: -0.85888 | diff: -21472 | msg.angular.z: 11.0297
+error: -0.85888 | diff: -21472 | msg.angular.z: 10.1708
+error: -0.85888 | diff: -21472 | msg.angular.z: 9.31191
+error: -0.85888 | diff: -21472 | msg.angular.z: 8.45303
+error: -0.85888 | diff: -21472 | msg.angular.z: 7.59415
+error: -0.85888 | diff: -21472 | msg.angular.z: 6.73527
+error: -0.85888 | diff: -21472 | msg.angular.z: 5.87639
+error: -0.85888 | diff: -21472 | msg.angular.z: 5.01751
+error: -0.85888 | diff: -21472 | msg.angular.z: 4.15863
+error: -0.85888 | diff: -21472 | msg.angular.z: 3.29975
+error: -0.85888 | diff: -21472 | msg.angular.z: 2.44087
+error: -0.85888 | diff: -21472 | msg.angular.z: 1.58199
+error: -0.85888 | diff: -21472 | msg.angular.z: 0.723112
+Linie verlassen bei: 30837 31943 25351 22121
+Linie verlassen bei: 30837 31943 25351 22121
+Linie verlassen bei: 30837 31943 25351 22121
+Linie verlassen bei: 30837 31943 25351 22121
+Linie verlassen bei: 31091 32455 25916 25126
+Linie verlassen bei: 31091 32455 25916 25126
+Linie verlassen bei: 31091 32455 25916 25126
+Linie verlassen bei: 31091 32455 25916 25126
+Linie verlassen bei: 31091 32455 25916 25126
+Linie verlassen bei: 31250 33024 25116 24881
+Linie verlassen bei: 31250 33024 25116 24881
+Linie verlassen bei: 31250 33024 25116 24881
+Linie verlassen bei: 31250 33024 25116 24881
+Linie verlassen bei: 31250 33024 25116 24881
+Linie verlassen bei: 29325 34371 7181 26019
+error: -0.85888 | diff: -21472 | msg.angular.z: -0.135768
+error: -0.85888 | diff: -21472 | msg.angular.z: -0.994648
+error: -0.85888 | diff: -21472 | msg.angular.z: -1.85353
+error: -0.85888 | diff: -21472 | msg.angular.z: -2.71241
+error: -0.85888 | diff: -21472 | msg.angular.z: -3.57129
+error: -0.85888 | diff: -21472 | msg.angular.z: -4.43017
+error: -0.85888 | diff: -21472 | msg.angular.z: -5.28905
+error: -0.85888 | diff: -21472 | msg.angular.z: -6.14793
+error: -0.85888 | diff: -21472 | msg.angular.z: -7.00681
+error: -0.85888 | diff: -21472 | msg.angular.z: -7.86569
+error: -0.85888 | diff: -21472 | msg.angular.z: -8.72457
+error: -0.85888 | diff: -21472 | msg.angular.z: -9.58345
+error: -0.85888 | diff: -21472 | msg.angular.z: -10.4423
+error: -0.85888 | diff: -21472 | msg.angular.z: -11.3012
+error: -0.85888 | diff: -21472 | msg.angular.z: -12.1601
+error: 0.7826 | diff: 19565 | msg.angular.z: -9.57186
+error: 0.7826 | diff: 19565 | msg.angular.z: -10.4307
+error: 0.7826 | diff: 19565 | msg.angular.z: -9.64814
+error: 0.7826 | diff: 19565 | msg.angular.z: -8.86554
+error: 0.7826 | diff: 19565 | msg.angular.z: -8.08294
+error: 0.80328 | diff: 20082 | msg.angular.z: -7.25691
+error: 0.80328 | diff: 20082 | msg.angular.z: -6.47431
+error: 0.80328 | diff: 20082 | msg.angular.z: -5.67103
+error: 0.80328 | diff: 20082 | msg.angular.z: -4.86775
+error: 0.80328 | diff: 20082 | msg.angular.z: -4.06447
+error: 0.7924 | diff: 19810 | msg.angular.z: -3.28404
+error: 0.7924 | diff: 19810 | msg.angular.z: -2.48076
+error: 0.7924 | diff: 19810 | msg.angular.z: -1.68836
+error: 0.7924 | diff: 19810 | msg.angular.z: -0.89596
+error: 0.7924 | diff: 19810 | msg.angular.z: -0.10356
+error: 0.7924 | diff: 19810 | msg.angular.z: 0.68884
+error: 0.7924 | diff: 19810 | msg.angular.z: 1.48124
+error: 0.7924 | diff: 19810 | msg.angular.z: 2.27364
+error: 0.7924 | diff: 19810 | msg.angular.z: 3.06604
+error: 0.7924 | diff: 19810 | msg.angular.z: 3.85844
+error: 0.7924 | diff: 19810 | msg.angular.z: 4.65084
+error: 0.7924 | diff: 19810 | msg.angular.z: 5.44324
+error: 0.7924 | diff: 19810 | msg.angular.z: 6.23564
+error: 0.7924 | diff: 19810 | msg.angular.z: 7.02804
+error: 0.7924 | diff: 19810 | msg.angular.z: 7.82044
+Linie verlassen bei: 32941 34728 26492 26104
+Linie verlassen bei: 32941 34728 26492 26104
+Linie verlassen bei: 32941 34728 26492 26104
+Linie verlassen bei: 32941 34728 26492 26104
+Linie verlassen bei: 33439 34658 27912 25953
+Linie verlassen bei: 33439 34658 27912 25953
+Linie verlassen bei: 33439 34658 27912 25953
+Linie verlassen bei: 33439 34658 27912 25953
+Linie verlassen bei: 33439 34658 27912 25953
+Linie verlassen bei: 33877 34846 28197 26084
+Linie verlassen bei: 33877 34846 28197 26084
+Linie verlassen bei: 33877 34846 28197 26084
+Linie verlassen bei: 33877 34846 28197 26084
+Linie verlassen bei: 33877 34846 28197 26084
+Linie verlassen bei: 33899 34918 28382 26168
+Linie verlassen bei: 33899 34918 28382 26168
+Linie verlassen bei: 33899 34918 28382 26168
+Linie verlassen bei: 33899 34918 28382 26168
+Linie verlassen bei: 33899 34918 28382 26168
+Linie verlassen bei: 33608 34586 27933 25956
+Linie verlassen bei: 33608 34586 27933 25956
+Linie verlassen bei: 33608 34586 27933 25956
+Linie verlassen bei: 33608 34586 27933 25956
+Linie verlassen bei: 33608 34586 27933 25956
+Linie verlassen bei: 33907 34812 28354 26091
+Linie verlassen bei: 33907 34812 28354 26091
+Linie verlassen bei: 33907 34812 28354 26091
+Linie verlassen bei: 33907 34812 28354 26091
+Linie verlassen bei: 33907 34812 28354 26091
+Linie verlassen bei: 33491 34430 28152 25882
+Linie verlassen bei: 33491 34430 28152 25882
+Linie verlassen bei: 33491 34430 28152 25882
+Linie verlassen bei: 33491 34430 28152 25882
+Linie verlassen bei: 33501 34361 27942 25733
+Linie verlassen bei: 33501 34361 27942 25733
+Linie verlassen bei: 33501 34361 27942 25733
+Linie verlassen bei: 33501 34361 27942 25733
+Linie verlassen bei: 33501 34361 27942 25733
+Linie verlassen bei: 33491 34410 27952 25709
+Linie verlassen bei: 33491 34410 27952 25709
+Linie verlassen bei: 33491 34410 27952 25709
+Linie verlassen bei: 33491 34410 27952 25709
+Linie verlassen bei: 33491 34410 27952 25709
+Linie verlassen bei: 33504 34361 27907 25716
+Linie verlassen bei: 33504 34361 27907 25716
+Linie verlassen bei: 33504 34361 27907 25716
+//////////////////////////////////////////////////////////////
+-viel zu stark -Test kann nicht gewertet werden
+//////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////// PID-setup Teil ki Versuch 2: ki = 0.01; begrenzung der Drehung auf 0.15/-0.15
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+Linie verlassen bei: 31419 32541 26732 24781
+Linie verlassen bei: 31419 32541 26732 24781
+Linie verlassen bei: 31419 32541 26732 24781
+Linie verlassen bei: 31419 32541 26732 24781
+Linie verlassen bei: 12878 12476 24920 22561
+error: -0.01608 | diff: -402 | msg.angular.z: -0.0178488
+error: -0.01608 | diff: -402 | msg.angular.z: -0.0019296
+error: -0.01608 | diff: -402 | msg.angular.z: -0.0020904
+error: -0.01608 | diff: -402 | msg.angular.z: -0.0022512
+error: -0.01608 | diff: -402 | msg.angular.z: -0.002412
+error: -0.01696 | diff: -424 | msg.angular.z: -0.0035496
+error: -0.01696 | diff: -424 | msg.angular.z: -0.0028392
+error: -0.01696 | diff: -424 | msg.angular.z: -0.0030088
+error: -0.01696 | diff: -424 | msg.angular.z: -0.0031784
+error: -0.01696 | diff: -424 | msg.angular.z: -0.003348
+error: -0.01704 | diff: -426 | msg.angular.z: -0.0036064
+error: -0.01704 | diff: -426 | msg.angular.z: -0.0036968
+error: -0.01704 | diff: -426 | msg.angular.z: -0.0038672
+error: -0.01704 | diff: -426 | msg.angular.z: -0.0040376
+error: -0.01704 | diff: -426 | msg.angular.z: -0.004208
+error: -0.01716 | diff: -429 | msg.angular.z: -0.0045116
+error: -0.01716 | diff: -429 | msg.angular.z: -0.0045632
+error: -0.01716 | diff: -429 | msg.angular.z: -0.0047348
+error: -0.01716 | diff: -429 | msg.angular.z: -0.0049064
+error: -0.01716 | diff: -429 | msg.angular.z: -0.005078
+error: -0.01996 | diff: -499 | msg.angular.z: -0.0083576
+error: -0.01996 | diff: -499 | msg.angular.z: -0.0057572
+error: -0.01996 | diff: -499 | msg.angular.z: -0.0059568
+error: -0.01996 | diff: -499 | msg.angular.z: -0.0061564
+error: -0.01996 | diff: -499 | msg.angular.z: -0.006356
+error: -0.03928 | diff: -982 | msg.angular.z: -0.0280008
+error: -0.03928 | diff: -982 | msg.angular.z: -0.0090736
+error: -0.03928 | diff: -982 | msg.angular.z: -0.0094664
+error: -0.03928 | diff: -982 | msg.angular.z: -0.0098592
+error: -0.03928 | diff: -982 | msg.angular.z: -0.010252
+error: -0.06716 | diff: -1679 | msg.angular.z: -0.0415916
+error: -0.06716 | diff: -1679 | msg.angular.z: -0.0143832
+error: -0.06716 | diff: -1679 | msg.angular.z: -0.0150548
+error: -0.06716 | diff: -1679 | msg.angular.z: -0.0157264
+error: -0.06716 | diff: -1679 | msg.angular.z: -0.016398
+error: -0.09852 | diff: -2463 | msg.angular.z: -0.0518792
+error: -0.09852 | diff: -2463 | msg.angular.z: -0.0215044
+error: -0.09852 | diff: -2463 | msg.angular.z: -0.0224896
+error: -0.09852 | diff: -2463 | msg.angular.z: -0.0234748
+error: -0.09852 | diff: -2463 | msg.angular.z: -0.02446
+error: -0.13792 | diff: -3448 | msg.angular.z: -0.0691792
+error: -0.13792 | diff: -3448 | msg.angular.z: -0.0311584
+error: -0.13792 | diff: -3448 | msg.angular.z: -0.0325376
+error: -0.13792 | diff: -3448 | msg.angular.z: -0.0339168
+error: -0.13792 | diff: -3448 | msg.angular.z: -0.035296
+error: -0.19252 | diff: -4813 | msg.angular.z: -0.0972812
+error: -0.19252 | diff: -4813 | msg.angular.z: -0.0446064
+error: -0.19252 | diff: -4813 | msg.angular.z: -0.0465316
+error: -0.19252 | diff: -4813 | msg.angular.z: -0.0484568
+error: -0.19252 | diff: -4813 | msg.angular.z: -0.050382
+error: -0.24724 | diff: -6181 | msg.angular.z: -0.113046
+error: -0.24724 | diff: -6181 | msg.angular.z: -0.0607988
+error: -0.24724 | diff: -6181 | msg.angular.z: -0.0632712
+error: -0.24724 | diff: -6181 | msg.angular.z: -0.0657436
+error: -0.24724 | diff: -6181 | msg.angular.z: -0.068216
+error: -0.27224 | diff: -6806 | msg.angular.z: -0.0984384
+error: -0.27224 | diff: -6806 | msg.angular.z: -0.0761608
+error: -0.27224 | diff: -6806 | msg.angular.z: -0.0788832
+error: -0.27224 | diff: -6806 | msg.angular.z: -0.0816056
+error: -0.27224 | diff: -6806 | msg.angular.z: -0.084328
+error: -0.31332 | diff: -7833 | msg.angular.z: -0.132649
+error: -0.31332 | diff: -7833 | msg.angular.z: -0.0947024
+error: -0.31332 | diff: -7833 | msg.angular.z: -0.0978356
+error: -0.31332 | diff: -7833 | msg.angular.z: -0.100969
+error: -0.31332 | diff: -7833 | msg.angular.z: -0.104102
+error: -0.3496 | diff: -8740 | msg.angular.z: -0.147506
+error: -0.3496 | diff: -8740 | msg.angular.z: -0.114722
+error: -0.3496 | diff: -8740 | msg.angular.z: -0.118218
+error: -0.3496 | diff: -8740 | msg.angular.z: -0.121714
+error: -0.3496 | diff: -8740 | msg.angular.z: -0.12521
+error: -0.39176 | diff: -9794 | msg.angular.z: -0.15
+error: -0.39176 | diff: -9794 | msg.angular.z: -0.137261
+error: -0.39176 | diff: -9794 | msg.angular.z: -0.141179
+error: -0.39176 | diff: -9794 | msg.angular.z: -0.145096
+error: -0.39176 | diff: -9794 | msg.angular.z: -0.149014
+error: -0.422 | diff: -10550 | msg.angular.z: -0.15
+error: -0.422 | diff: -10550 | msg.angular.z: -0.15
+error: -0.422 | diff: -10550 | msg.angular.z: -0.15
+error: -0.422 | diff: -10550 | msg.angular.z: -0.15
+error: -0.422 | diff: -10550 | msg.angular.z: -0.15
+error: -0.45124 | diff: -11281 | msg.angular.z: -0.15
+error: -0.45124 | diff: -11281 | msg.angular.z: -0.15
+error: -0.45124 | diff: -11281 | msg.angular.z: -0.15
+error: -0.45124 | diff: -11281 | msg.angular.z: -0.15
+error: -0.45124 | diff: -11281 | msg.angular.z: -0.15
+error: -0.4536 | diff: -11340 | msg.angular.z: -0.15
+error: -0.4536 | diff: -11340 | msg.angular.z: -0.15
+error: -0.4536 | diff: -11340 | msg.angular.z: -0.15
+error: -0.4536 | diff: -11340 | msg.angular.z: -0.15
+error: -0.4536 | diff: -11340 | msg.angular.z: -0.15
+error: -0.42676 | diff: -10669 | msg.angular.z: -0.15
+error: -0.42676 | diff: -10669 | msg.angular.z: -0.15
+error: -0.42676 | diff: -10669 | msg.angular.z: -0.15
+error: -0.42676 | diff: -10669 | msg.angular.z: -0.15
+error: -0.42676 | diff: -10669 | msg.angular.z: -0.15
+error: -0.36172 | diff: -9043 | msg.angular.z: -0.15
+error: -0.36172 | diff: -9043 | msg.angular.z: -0.15
+error: -0.36172 | diff: -9043 | msg.angular.z: -0.15
+error: -0.36172 | diff: -9043 | msg.angular.z: -0.15
+error: -0.36172 | diff: -9043 | msg.angular.z: -0.15
+error: -0.28476 | diff: -7119 | msg.angular.z: -0.15
+error: -0.28476 | diff: -7119 | msg.angular.z: -0.15
+error: -0.28476 | diff: -7119 | msg.angular.z: -0.15
+error: -0.28476 | diff: -7119 | msg.angular.z: -0.15
+error: -0.28476 | diff: -7119 | msg.angular.z: -0.15
+error: -0.21308 | diff: -5327 | msg.angular.z: -0.15
+error: -0.21308 | diff: -5327 | msg.angular.z: -0.15
+error: -0.21308 | diff: -5327 | msg.angular.z: -0.15
+error: -0.21308 | diff: -5327 | msg.angular.z: -0.15
+error: -0.21308 | diff: -5327 | msg.angular.z: -0.15
+error: -0.06276 | diff: -1569 | msg.angular.z: -0.0970796
+error: -0.06276 | diff: -1569 | msg.angular.z: -0.15
+error: -0.06276 | diff: -1569 | msg.angular.z: -0.15
+error: -0.06276 | diff: -1569 | msg.angular.z: -0.15
+error: -0.06276 | diff: -1569 | msg.angular.z: -0.15
+error: 0.07752 | diff: 1938 | msg.angular.z: -0.0948268
+error: 0.07752 | diff: 1938 | msg.angular.z: -0.15
+error: 0.07752 | diff: 1938 | msg.angular.z: -0.15
+error: 0.07752 | diff: 1938 | msg.angular.z: -0.15
+error: 0.07752 | diff: 1938 | msg.angular.z: -0.15
+error: 0.29732 | diff: 7433 | msg.angular.z: 0.0127472
+error: 0.29732 | diff: 7433 | msg.angular.z: -0.15
+error: 0.29732 | diff: 7433 | msg.angular.z: -0.15
+error: 0.29732 | diff: 7433 | msg.angular.z: -0.15
+error: 0.29732 | diff: 7433 | msg.angular.z: -0.15
+error: 0.29732 | diff: 7433 | msg.angular.z: -0.15
+error: 0.534 | diff: 13350 | msg.angular.z: 0.0735012
+error: 0.534 | diff: 13350 | msg.angular.z: -0.15
+error: 0.534 | diff: 13350 | msg.angular.z: -0.15
+error: 0.534 | diff: 13350 | msg.angular.z: -0.147159
+error: 0.69036 | diff: 17259 | msg.angular.z: 0.0317408
+error: 0.69036 | diff: 17259 | msg.angular.z: -0.117716
+error: 0.69036 | diff: 17259 | msg.angular.z: -0.110812
+error: 0.69036 | diff: 17259 | msg.angular.z: -0.103908
+error: 0.69036 | diff: 17259 | msg.angular.z: -0.0970048
+error: 0.80736 | diff: 20184 | msg.angular.z: 0.0397688
+error: 0.80736 | diff: 20184 | msg.angular.z: -0.0691576
+error: 0.80736 | diff: 20184 | msg.angular.z: -0.061084
+error: 0.80736 | diff: 20184 | msg.angular.z: -0.0530104
+error: 0.80736 | diff: 20184 | msg.angular.z: -0.0449368
+error: 0.85176 | diff: 21294 | msg.angular.z: 0.0124208
+error: 0.85176 | diff: 21294 | msg.angular.z: -0.0234616
+error: 0.85176 | diff: 21294 | msg.angular.z: -0.014944
+error: 0.85176 | diff: 21294 | msg.angular.z: -0.0064264
+error: 0.85176 | diff: 21294 | msg.angular.z: 0.0020912
+error: 0.81024 | diff: 20256 | msg.angular.z: -0.0354784
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.014144
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.0222464
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.0303488
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.0384512
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.0465536
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.054656
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.0627584
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.0708608
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.0789632
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.0870656
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.095168
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.10327
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.111373
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.119475
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.127578
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.13568
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.143782
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.15
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.15
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.15
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.15
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.15
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.15
+error: 0.81024 | diff: 20256 | msg.angular.z: 0.15
+Linie verlassen bei: 27966 32073 8205 24644
+Linie verlassen bei: 27966 32073 8205 24644
+Linie verlassen bei: 27966 32073 8205 24644
+Linie verlassen bei: 27966 32073 8205 24644
+Linie verlassen bei: 28809 32395 9456 24505
+Linie verlassen bei: 28809 32395 9456 24505
+Linie verlassen bei: 28809 32395 9456 24505
+Linie verlassen bei: 28809 32395 9456 24505
+Linie verlassen bei: 28809 32395 9456 24505
+//////////////////////////////////////////////////////////////
+-schleudern scheint wieder stärker geworden zu sein
+//////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////// PID-setup Teil ki Versuch 3: ki = 0.01; begrenzung der Drehung auf 0.25/-0.25
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+Linie verlassen bei: 30706 31944 25202 24622
+Linie verlassen bei: 30706 31944 25202 24622
+Linie verlassen bei: 30706 31944 25202 24622
+Linie verlassen bei: 30706 31944 25202 24622
+Linie verlassen bei: 11040 14641 24354 23927
+error: 0.14404 | diff: 3601 | msg.angular.z: 0.159884
+error: 0.14404 | diff: 3601 | msg.angular.z: 0.0172848
+error: 0.14404 | diff: 3601 | msg.angular.z: 0.0187252
+error: 0.14404 | diff: 3601 | msg.angular.z: 0.0201656
+error: 0.14404 | diff: 3601 | msg.angular.z: 0.021606
+error: 0.14428 | diff: 3607 | msg.angular.z: 0.0233128
+error: 0.14428 | diff: 3607 | msg.angular.z: 0.0245156
+error: 0.14428 | diff: 3607 | msg.angular.z: 0.0259584
+error: 0.14428 | diff: 3607 | msg.angular.z: 0.0274012
+error: 0.14428 | diff: 3607 | msg.angular.z: 0.028844
+error: 0.14224 | diff: 3556 | msg.angular.z: 0.0280224
+error: 0.14224 | diff: 3556 | msg.angular.z: 0.0314848
+error: 0.14224 | diff: 3556 | msg.angular.z: 0.0329072
+error: 0.14224 | diff: 3556 | msg.angular.z: 0.0343296
+error: 0.14224 | diff: 3556 | msg.angular.z: 0.035752
+error: 0.14228 | diff: 3557 | msg.angular.z: 0.0372188
+error: 0.14228 | diff: 3557 | msg.angular.z: 0.0386016
+error: 0.14228 | diff: 3557 | msg.angular.z: 0.0400244
+error: 0.14228 | diff: 3557 | msg.angular.z: 0.0414472
+error: 0.14228 | diff: 3557 | msg.angular.z: 0.04287
+error: 0.14252 | diff: 3563 | msg.angular.z: 0.0445592
+error: 0.14252 | diff: 3563 | msg.angular.z: 0.0457444
+error: 0.14252 | diff: 3563 | msg.angular.z: 0.0471696
+error: 0.14252 | diff: 3563 | msg.angular.z: 0.0485948
+error: 0.14252 | diff: 3563 | msg.angular.z: 0.05002
+error: 0.12124 | diff: 3031 | msg.angular.z: 0.0278244
+error: 0.12124 | diff: 3031 | msg.angular.z: 0.0503168
+error: 0.12124 | diff: 3031 | msg.angular.z: 0.0515292
+error: 0.12124 | diff: 3031 | msg.angular.z: 0.0527416
+error: 0.12124 | diff: 3031 | msg.angular.z: 0.053954
+error: 0.08432 | diff: 2108 | msg.angular.z: 0.0141852
+error: 0.08432 | diff: 2108 | msg.angular.z: 0.0519484
+error: 0.08432 | diff: 2108 | msg.angular.z: 0.0527916
+error: 0.08432 | diff: 2108 | msg.angular.z: 0.0536348
+error: 0.08432 | diff: 2108 | msg.angular.z: 0.054478
+error: 0.03168 | diff: 792 | msg.angular.z: -0.0031092
+error: 0.03168 | diff: 792 | msg.angular.z: 0.0498476
+error: 0.03168 | diff: 792 | msg.angular.z: 0.0501644
+error: 0.03168 | diff: 792 | msg.angular.z: 0.0504812
+error: 0.03168 | diff: 792 | msg.angular.z: 0.050798
+error: -0.053 | diff: -1325 | msg.angular.z: -0.04288
+error: -0.053 | diff: -1325 | msg.angular.z: 0.04127
+error: -0.053 | diff: -1325 | msg.angular.z: 0.04074
+error: -0.053 | diff: -1325 | msg.angular.z: 0.04021
+error: -0.053 | diff: -1325 | msg.angular.z: 0.03968
+error: -0.16284 | diff: -4071 | msg.angular.z: -0.0827724
+error: -0.16284 | diff: -4071 | msg.angular.z: 0.0254392
+error: -0.16284 | diff: -4071 | msg.angular.z: 0.0238108
+error: -0.16284 | diff: -4071 | msg.angular.z: 0.0221824
+error: -0.16284 | diff: -4071 | msg.angular.z: 0.020554
+error: -0.28492 | diff: -7123 | msg.angular.z: -0.116583
+error: -0.28492 | diff: -7123 | msg.angular.z: 0.0026476
+error: -0.28492 | diff: -7123 | msg.angular.z: -0.0002016
+error: -0.28492 | diff: -7123 | msg.angular.z: -0.0030508
+error: -0.28492 | diff: -7123 | msg.angular.z: -0.0059
+error: -0.38884 | diff: -9721 | msg.angular.z: -0.1241
+error: -0.38884 | diff: -9721 | msg.angular.z: -0.0240688
+error: -0.38884 | diff: -9721 | msg.angular.z: -0.0279572
+error: -0.38884 | diff: -9721 | msg.angular.z: -0.0318456
+error: -0.38884 | diff: -9721 | msg.angular.z: -0.035734
+error: -0.49604 | diff: -12401 | msg.angular.z: -0.158614
+error: -0.49604 | diff: -12401 | msg.angular.z: -0.0563748
+error: -0.49604 | diff: -12401 | msg.angular.z: -0.0613352
+error: -0.49604 | diff: -12401 | msg.angular.z: -0.0662956
+error: -0.49604 | diff: -12401 | msg.angular.z: -0.071256
+error: -0.56324 | diff: -14081 | msg.angular.z: -0.150808
+error: -0.56324 | diff: -14081 | msg.angular.z: -0.0892408
+error: -0.56324 | diff: -14081 | msg.angular.z: -0.0948732
+error: -0.56324 | diff: -14081 | msg.angular.z: -0.100506
+error: -0.56324 | diff: -14081 | msg.angular.z: -0.106138
+error: -0.67356 | diff: -16839 | msg.angular.z: -0.234226
+error: -0.67356 | diff: -16839 | msg.angular.z: -0.130641
+error: -0.67356 | diff: -16839 | msg.angular.z: -0.137377
+error: -0.67356 | diff: -16839 | msg.angular.z: -0.144112
+error: -0.67356 | diff: -16839 | msg.angular.z: -0.150848
+error: -0.74504 | diff: -18626 | msg.angular.z: -0.236926
+error: -0.74504 | diff: -18626 | msg.angular.z: -0.172897
+error: -0.74504 | diff: -18626 | msg.angular.z: -0.180347
+error: -0.74504 | diff: -18626 | msg.angular.z: -0.187798
+error: -0.74504 | diff: -18626 | msg.angular.z: -0.195248
+error: -0.75516 | diff: -18879 | msg.angular.z: -0.213932
+error: -0.75516 | diff: -18879 | msg.angular.z: -0.211363
+error: -0.75516 | diff: -18879 | msg.angular.z: -0.218915
+error: -0.75516 | diff: -18879 | msg.angular.z: -0.226466
+error: -0.75516 | diff: -18879 | msg.angular.z: -0.234018
+error: -0.775 | diff: -19375 | msg.angular.z: -0.25
+error: -0.775 | diff: -19375 | msg.angular.z: -0.25
+error: -0.775 | diff: -19375 | msg.angular.z: -0.25
+error: -0.775 | diff: -19375 | msg.angular.z: -0.25
+error: -0.775 | diff: -19375 | msg.angular.z: -0.25
+error: -0.7608 | diff: -19020 | msg.angular.z: -0.25
+error: -0.7608 | diff: -19020 | msg.angular.z: -0.25
+error: -0.7608 | diff: -19020 | msg.angular.z: -0.25
+error: -0.7608 | diff: -19020 | msg.angular.z: -0.25
+error: -0.7608 | diff: -19020 | msg.angular.z: -0.25
+error: -0.7464 | diff: -18660 | msg.angular.z: -0.25
+error: -0.7464 | diff: -18660 | msg.angular.z: -0.25
+error: -0.7464 | diff: -18660 | msg.angular.z: -0.25
+error: -0.7464 | diff: -18660 | msg.angular.z: -0.25
+error: -0.7464 | diff: -18660 | msg.angular.z: -0.25
+error: -0.7696 | diff: -19240 | msg.angular.z: -0.25
+error: -0.7696 | diff: -19240 | msg.angular.z: -0.25
+error: -0.7696 | diff: -19240 | msg.angular.z: -0.25
+error: -0.7696 | diff: -19240 | msg.angular.z: -0.25
+error: -0.7696 | diff: -19240 | msg.angular.z: -0.25
+error: -0.80428 | diff: -20107 | msg.angular.z: -0.25
+error: -0.80428 | diff: -20107 | msg.angular.z: -0.25
+error: -0.80428 | diff: -20107 | msg.angular.z: -0.25
+error: -0.80428 | diff: -20107 | msg.angular.z: -0.25
+error: -0.80428 | diff: -20107 | msg.angular.z: -0.25
+error: -0.78448 | diff: -19612 | msg.angular.z: -0.25
+error: -0.78448 | diff: -19612 | msg.angular.z: -0.25
+error: -0.78448 | diff: -19612 | msg.angular.z: -0.25
+error: -0.78448 | diff: -19612 | msg.angular.z: -0.25
+error: -0.78448 | diff: -19612 | msg.angular.z: -0.25
+error: -0.76436 | diff: -19109 | msg.angular.z: -0.25
+error: -0.76436 | diff: -19109 | msg.angular.z: -0.25
+error: -0.76436 | diff: -19109 | msg.angular.z: -0.25
+error: -0.76436 | diff: -19109 | msg.angular.z: -0.25
+error: -0.76436 | diff: -19109 | msg.angular.z: -0.25
+error: -0.74692 | diff: -18673 | msg.angular.z: -0.25
+error: -0.74692 | diff: -18673 | msg.angular.z: -0.25
+error: -0.74692 | diff: -18673 | msg.angular.z: -0.25
+error: -0.74692 | diff: -18673 | msg.angular.z: -0.25
+error: -0.74692 | diff: -18673 | msg.angular.z: -0.25
+error: -0.72688 | diff: -18172 | msg.angular.z: -0.25
+error: -0.72688 | diff: -18172 | msg.angular.z: -0.25
+error: -0.72688 | diff: -18172 | msg.angular.z: -0.25
+error: -0.72688 | diff: -18172 | msg.angular.z: -0.25
+error: -0.72688 | diff: -18172 | msg.angular.z: -0.25
+error: -0.65088 | diff: -16272 | msg.angular.z: -0.25
+error: -0.65088 | diff: -16272 | msg.angular.z: -0.25
+error: -0.65088 | diff: -16272 | msg.angular.z: -0.25
+error: -0.65088 | diff: -16272 | msg.angular.z: -0.25
+error: -0.65088 | diff: -16272 | msg.angular.z: -0.25
+error: -0.52228 | diff: -13057 | msg.angular.z: -0.25
+error: -0.52228 | diff: -13057 | msg.angular.z: -0.25
+error: -0.52228 | diff: -13057 | msg.angular.z: -0.25
+error: -0.52228 | diff: -13057 | msg.angular.z: -0.25
+error: -0.52228 | diff: -13057 | msg.angular.z: -0.25
+error: -0.30588 | diff: -7647 | msg.angular.z: -0.25
+error: -0.30588 | diff: -7647 | msg.angular.z: -0.25
+error: -0.30588 | diff: -7647 | msg.angular.z: -0.25
+error: -0.30588 | diff: -7647 | msg.angular.z: -0.25
+error: -0.30588 | diff: -7647 | msg.angular.z: -0.25
+error: -0.02312 | diff: -578 | msg.angular.z: -0.25
+error: -0.02312 | diff: -578 | msg.angular.z: -0.25
+error: -0.02312 | diff: -578 | msg.angular.z: -0.25
+error: -0.02312 | diff: -578 | msg.angular.z: -0.25
+error: -0.02312 | diff: -578 | msg.angular.z: -0.25
+error: 0.30124 | diff: 7531 | msg.angular.z: -0.22005
+error: 0.30124 | diff: 7531 | msg.angular.z: -0.25
+error: 0.30124 | diff: 7531 | msg.angular.z: -0.25
+error: 0.30124 | diff: 7531 | msg.angular.z: -0.25
+error: 0.30124 | diff: 7531 | msg.angular.z: -0.25
+error: 0.62372 | diff: 15593 | msg.angular.z: -0.171395
+error: 0.62372 | diff: 15593 | msg.angular.z: -0.25
+error: 0.62372 | diff: 15593 | msg.angular.z: -0.25
+error: 0.62372 | diff: 15593 | msg.angular.z: -0.25
+error: 0.62372 | diff: 15593 | msg.angular.z: -0.25
+error: 0.7192 | diff: 17980 | msg.angular.z: -0.25
+error: 0.7192 | diff: 17980 | msg.angular.z: -0.25
+error: 0.7192 | diff: 17980 | msg.angular.z: -0.25
+error: 0.7192 | diff: 17980 | msg.angular.z: -0.25
+error: 0.7192 | diff: 17980 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+error: 0.78268 | diff: 19567 | msg.angular.z: -0.25
+Linie verlassen bei: 28735 32721 9084 25275
+Linie verlassen bei: 28735 32721 9084 25275
+Linie verlassen bei: 28735 32721 9084 25275
+Linie verlassen bei: 28735 32721 9084 25275
+Linie verlassen bei: 30246 32720 15835 24851
+Linie verlassen bei: 30246 32720 15835 24851
+Linie verlassen bei: 30246 32720 15835 24851
+Linie verlassen bei: 30246 32720 15835 24851
+Linie verlassen bei: 30246 32720 15835 24851
+Linie verlassen bei: 30399 32186 22512 24222
+Linie verlassen bei: 30399 32186 22512 24222
+Linie verlassen bei: 30399 32186 22512 24222
+Linie verlassen bei: 30399 32186 22512 24222
+Linie verlassen bei: 30399 32186 22512 24222
+Linie verlassen bei: 30610 32228 24866 24248
+Linie verlassen bei: 30610 32228 24866 24248
+//////////////////////////////////////////////////////////////
+-schleudern immernoch zu stark
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////PID-setup Teil ki Versuch 4: ki = 0.01; erhöhung der toten Zone diff +-400; begrenzung der Drehung auf 0.25/-0.25
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+Linie verlassen bei: 30967 32556 25324 24545
+Linie verlassen bei: 30967 32556 25324 24545
+Linie verlassen bei: 30967 32556 25324 24545
+Linie verlassen bei: 30967 32556 25324 24545
+Linie verlassen bei: 11188 13923 24335 23243
+error: 0.1094 | diff: 2735 | msg.angular.z: 0.121434
+error: 0.1094 | diff: 2735 | msg.angular.z: 0.013128
+error: 0.1094 | diff: 2735 | msg.angular.z: 0.014222
+error: 0.1094 | diff: 2735 | msg.angular.z: 0.015316
+error: 0.1094 | diff: 2735 | msg.angular.z: 0.01641
+error: 0.10804 | diff: 2701 | msg.angular.z: 0.0159944
+error: 0.10804 | diff: 2701 | msg.angular.z: 0.0184348
+error: 0.10804 | diff: 2701 | msg.angular.z: 0.0195152
+error: 0.10804 | diff: 2701 | msg.angular.z: 0.0205956
+error: 0.10804 | diff: 2701 | msg.angular.z: 0.021676
+error: 0.10924 | diff: 2731 | msg.angular.z: 0.0240884
+error: 0.10924 | diff: 2731 | msg.angular.z: 0.0239808
+error: 0.10924 | diff: 2731 | msg.angular.z: 0.0250732
+error: 0.10924 | diff: 2731 | msg.angular.z: 0.0261656
+error: 0.10924 | diff: 2731 | msg.angular.z: 0.027258
+error: 0.11024 | diff: 2756 | msg.angular.z: 0.0294604
+error: 0.11024 | diff: 2756 | msg.angular.z: 0.0295628
+error: 0.11024 | diff: 2756 | msg.angular.z: 0.0306652
+error: 0.11024 | diff: 2756 | msg.angular.z: 0.0317676
+error: 0.11024 | diff: 2756 | msg.angular.z: 0.03287
+error: 0.09952 | diff: 2488 | msg.angular.z: 0.0220732
+error: 0.09952 | diff: 2488 | msg.angular.z: 0.0337884
+error: 0.09952 | diff: 2488 | msg.angular.z: 0.0347836
+error: 0.09952 | diff: 2488 | msg.angular.z: 0.0357788
+error: 0.09952 | diff: 2488 | msg.angular.z: 0.036774
+error: 0.06896 | diff: 1724 | msg.angular.z: 0.0038476
+error: 0.06896 | diff: 1724 | msg.angular.z: 0.0350972
+error: 0.06896 | diff: 1724 | msg.angular.z: 0.0357868
+error: 0.06896 | diff: 1724 | msg.angular.z: 0.0364764
+error: 0.06896 | diff: 1724 | msg.angular.z: 0.037166
+error: 0.00136 | diff: 34 | msg.angular.z: -0.0371804
+error: 0.00136 | diff: 34 | msg.angular.z: 0.0304332
+error: 0.00136 | diff: 34 | msg.angular.z: 0.0304468
+error: 0.00136 | diff: 34 | msg.angular.z: 0.0304604
+error: 0.00136 | diff: 34 | msg.angular.z: 0.030474
+error: -0.09956 | diff: -2489 | msg.angular.z: -0.0815336
+error: -0.09956 | diff: -2489 | msg.angular.z: 0.0183908
+error: -0.09956 | diff: -2489 | msg.angular.z: 0.0173952
+error: -0.09956 | diff: -2489 | msg.angular.z: 0.0163996
+error: -0.09956 | diff: -2489 | msg.angular.z: 0.015404
+error: -0.24812 | diff: -6203 | msg.angular.z: -0.15
+error: -0.24812 | diff: -6203 | msg.angular.z: -0.0044144
+error: -0.24812 | diff: -6203 | msg.angular.z: -0.0068956
+error: -0.24812 | diff: -6203 | msg.angular.z: -0.0093768
+error: -0.24812 | diff: -6203 | msg.angular.z: -0.011858
+error: -0.4478 | diff: -11195 | msg.angular.z: -0.15
+error: -0.4478 | diff: -11195 | msg.angular.z: -0.040782
+error: -0.4478 | diff: -11195 | msg.angular.z: -0.04526
+error: -0.4478 | diff: -11195 | msg.angular.z: -0.049738
+error: -0.4478 | diff: -11195 | msg.angular.z: -0.054216
+error: -0.63052 | diff: -15763 | msg.angular.z: -0.15
+error: -0.63052 | diff: -15763 | msg.angular.z: -0.0850984
+error: -0.63052 | diff: -15763 | msg.angular.z: -0.0914036
+error: -0.63052 | diff: -15763 | msg.angular.z: -0.0977088
+error: -0.63052 | diff: -15763 | msg.angular.z: -0.104014
+error: -0.72772 | diff: -18193 | msg.angular.z: -0.15
+error: -0.72772 | diff: -18193 | msg.angular.z: -0.128288
+error: -0.72772 | diff: -18193 | msg.angular.z: -0.135566
+error: -0.72772 | diff: -18193 | msg.angular.z: -0.142843
+error: -0.72772 | diff: -18193 | msg.angular.z: -0.15
+error: -0.77372 | diff: -19343 | msg.angular.z: -0.15
+error: -0.77372 | diff: -19343 | msg.angular.z: -0.15
+error: -0.77372 | diff: -19343 | msg.angular.z: -0.15
+error: -0.77372 | diff: -19343 | msg.angular.z: -0.15
+error: -0.77372 | diff: -19343 | msg.angular.z: -0.15
+error: -0.742 | diff: -18550 | msg.angular.z: -0.15
+error: -0.742 | diff: -18550 | msg.angular.z: -0.15
+error: -0.742 | diff: -18550 | msg.angular.z: -0.15
+error: -0.742 | diff: -18550 | msg.angular.z: -0.15
+error: -0.742 | diff: -18550 | msg.angular.z: -0.15
+rechts abbiegen bei: links außen: 28915 12540 26058 7818
+rechts abbiegen bei: links außen: 28915 12540 26058 7818
+rechts abbiegen bei: links außen: 28915 12540 26058 7818
+rechts abbiegen bei: links außen: 28915 12540 26058 7818
+rechts abbiegen bei: links außen: 30194 15916 26226 6173
+error: -0.655 | diff: -16375 | msg.angular.z: -0.138184
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.655 | diff: -16375 | msg.angular.z: -0.15
+error: -0.6852 | diff: -17130 | msg.angular.z: -0.15
+error: -0.6852 | diff: -17130 | msg.angular.z: -0.15
+error: -0.6852 | diff: -17130 | msg.angular.z: -0.15
+error: -0.6852 | diff: -17130 | msg.angular.z: -0.15
+error: -0.6852 | diff: -17130 | msg.angular.z: -0.15
+error: -0.6946 | diff: -17365 | msg.angular.z: -0.15
+error: -0.6946 | diff: -17365 | msg.angular.z: -0.15
+error: -0.6946 | diff: -17365 | msg.angular.z: -0.15
+error: -0.6946 | diff: -17365 | msg.angular.z: -0.15
+error: -0.6946 | diff: -17365 | msg.angular.z: -0.15
+error: -0.7236 | diff: -18090 | msg.angular.z: -0.15
+error: -0.7236 | diff: -18090 | msg.angular.z: -0.15
+error: -0.7236 | diff: -18090 | msg.angular.z: -0.15
+error: -0.7236 | diff: -18090 | msg.angular.z: -0.15
+error: -0.7236 | diff: -18090 | msg.angular.z: -0.15
+error: -0.66616 | diff: -16654 | msg.angular.z: -0.15
+error: -0.66616 | diff: -16654 | msg.angular.z: -0.15
+error: -0.66616 | diff: -16654 | msg.angular.z: -0.15
+error: -0.66616 | diff: -16654 | msg.angular.z: -0.15
+error: -0.66616 | diff: -16654 | msg.angular.z: -0.15
+error: -0.5878 | diff: -14695 | msg.angular.z: -0.15
+error: -0.5878 | diff: -14695 | msg.angular.z: -0.15
+error: -0.5878 | diff: -14695 | msg.angular.z: -0.15
+error: -0.5878 | diff: -14695 | msg.angular.z: -0.15
+error: -0.5878 | diff: -14695 | msg.angular.z: -0.15
+error: -0.4298 | diff: -10745 | msg.angular.z: -0.15
+error: -0.4298 | diff: -10745 | msg.angular.z: -0.15
+error: -0.4298 | diff: -10745 | msg.angular.z: -0.15
+error: -0.4298 | diff: -10745 | msg.angular.z: -0.15
+error: -0.4298 | diff: -10745 | msg.angular.z: -0.15
+error: -0.18152 | diff: -4538 | msg.angular.z: -0.15
+error: -0.18152 | diff: -4538 | msg.angular.z: -0.15
+error: -0.18152 | diff: -4538 | msg.angular.z: -0.15
+error: -0.18152 | diff: -4538 | msg.angular.z: -0.15
+error: -0.18152 | diff: -4538 | msg.angular.z: -0.15
+error: 0.16296 | diff: 4074 | msg.angular.z: -0.15
+error: 0.16296 | diff: 4074 | msg.angular.z: -0.15
+error: 0.16296 | diff: 4074 | msg.angular.z: -0.15
+error: 0.16296 | diff: 4074 | msg.angular.z: -0.15
+error: 0.16296 | diff: 4074 | msg.angular.z: -0.15
+error: 0.47888 | diff: 11972 | msg.angular.z: -0.15
+error: 0.47888 | diff: 11972 | msg.angular.z: -0.15
+error: 0.47888 | diff: 11972 | msg.angular.z: -0.15
+error: 0.47888 | diff: 11972 | msg.angular.z: -0.15
+error: 0.47888 | diff: 11972 | msg.angular.z: -0.15
+error: 0.73484 | diff: 18371 | msg.angular.z: -0.15
+error: 0.73484 | diff: 18371 | msg.angular.z: -0.15
+error: 0.73484 | diff: 18371 | msg.angular.z: -0.15
+error: 0.73484 | diff: 18371 | msg.angular.z: -0.15
+error: 0.73484 | diff: 18371 | msg.angular.z: -0.15
+error: 0.79668 | diff: 19917 | msg.angular.z: -0.15
+error: 0.79668 | diff: 19917 | msg.angular.z: -0.15
+error: 0.79668 | diff: 19917 | msg.angular.z: -0.15
+error: 0.79668 | diff: 19917 | msg.angular.z: -0.15
+error: 0.79668 | diff: 19917 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+error: 0.76748 | diff: 19187 | msg.angular.z: -0.15
+Linie verlassen bei: 29548 32695 8407 25337
+Linie verlassen bei: 29548 32695 8407 25337
+Linie verlassen bei: 29548 32695 8407 25337
+Linie verlassen bei: 29548 32695 8407 25337
+Linie verlassen bei: 30380 33144 14452 25433
+Linie verlassen bei: 30380 33144 14452 25433
+Linie verlassen bei: 30380 33144 14452 25433
+Linie verlassen bei: 30380 33144 14452 25433
+//////////////////////////////////////////////////////////////
+-die Richtungsanpassung scheint öfter an die Begrenzung zu stoßen als ohne Begrenzung
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////PID-setup Teil ki Versuch 5: ki = 0.01; begrenzung der Drehung aufgehoben
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+error: 0 | diff: 0 | msg.angular.z: 0
+Linie verlassen bei: 32029 32983 26779 24941
+Linie verlassen bei: 32029 32983 26779 24941
+Linie verlassen bei: 32029 32983 26779 24941
+Linie verlassen bei: 32029 32983 26779 24941
+Linie verlassen bei: 11781 13988 25165 23917
+error: 0.08828 | diff: 2207 | msg.angular.z: 0.0979908
+error: 0.08828 | diff: 2207 | msg.angular.z: 0.0105936
+error: 0.08828 | diff: 2207 | msg.angular.z: 0.0114764
+error: 0.08828 | diff: 2207 | msg.angular.z: 0.0123592
+error: 0.08828 | diff: 2207 | msg.angular.z: 0.013242
+error: 0.0894 | diff: 2235 | msg.angular.z: 0.015368
+error: 0.0894 | diff: 2235 | msg.angular.z: 0.015142
+error: 0.0894 | diff: 2235 | msg.angular.z: 0.016036
+error: 0.0894 | diff: 2235 | msg.angular.z: 0.01693
+error: 0.0894 | diff: 2235 | msg.angular.z: 0.017824
+error: 0.08928 | diff: 2232 | msg.angular.z: 0.0185848
+error: 0.08928 | diff: 2232 | msg.angular.z: 0.0195976
+error: 0.08928 | diff: 2232 | msg.angular.z: 0.0204904
+error: 0.08928 | diff: 2232 | msg.angular.z: 0.0213832
+error: 0.08928 | diff: 2232 | msg.angular.z: 0.022276
+error: 0.0882 | diff: 2205 | msg.angular.z: 0.02197
+error: 0.0882 | diff: 2205 | msg.angular.z: 0.023932
+error: 0.0882 | diff: 2205 | msg.angular.z: 0.024814
+error: 0.0882 | diff: 2205 | msg.angular.z: 0.025696
+error: 0.0882 | diff: 2205 | msg.angular.z: 0.026578
+error: 0.08816 | diff: 2204 | msg.angular.z: 0.0274156
+error: 0.08816 | diff: 2204 | msg.angular.z: 0.0283372
+error: 0.08816 | diff: 2204 | msg.angular.z: 0.0292188
+error: 0.08816 | diff: 2204 | msg.angular.z: 0.0301004
+error: 0.08816 | diff: 2204 | msg.angular.z: 0.030982
+error: 0.06744 | diff: 1686 | msg.angular.z: 0.0088644
+error: 0.06744 | diff: 1686 | msg.angular.z: 0.0302588
+error: 0.06744 | diff: 1686 | msg.angular.z: 0.0309332
+error: 0.06744 | diff: 1686 | msg.angular.z: 0.0316076
+error: 0.06744 | diff: 1686 | msg.angular.z: 0.032282
+error: 0.04164 | diff: 1041 | msg.angular.z: 0.0043184
+error: 0.04164 | diff: 1041 | msg.angular.z: 0.0305348
+error: 0.04164 | diff: 1041 | msg.angular.z: 0.0309512
+error: 0.04164 | diff: 1041 | msg.angular.z: 0.0313676
+error: 0.04164 | diff: 1041 | msg.angular.z: 0.031784
+error: -0.0064 | diff: -160 | msg.angular.z: -0.021124
+error: -0.0064 | diff: -160 | msg.angular.z: 0.026852
+error: -0.0064 | diff: -160 | msg.angular.z: 0.026788
+error: -0.0064 | diff: -160 | msg.angular.z: 0.026724
+error: -0.0064 | diff: -160 | msg.angular.z: 0.02666
+error: -0.06392 | diff: -1598 | msg.angular.z: -0.0372512
+error: -0.06392 | diff: -1598 | msg.angular.z: 0.0196296
+error: -0.06392 | diff: -1598 | msg.angular.z: 0.0189904
+error: -0.06392 | diff: -1598 | msg.angular.z: 0.0183512
+error: -0.06392 | diff: -1598 | msg.angular.z: 0.017712
+error: -0.11804 | diff: -2951 | msg.angular.z: -0.0430004
+error: -0.11804 | diff: -2951 | msg.angular.z: 0.0099392
+error: -0.11804 | diff: -2951 | msg.angular.z: 0.0087588
+error: -0.11804 | diff: -2951 | msg.angular.z: 0.0075784
+error: -0.11804 | diff: -2951 | msg.angular.z: 0.006398
+error: -0.17852 | diff: -4463 | msg.angular.z: -0.0619152
+error: -0.17852 | diff: -4463 | msg.angular.z: -0.0032204
+error: -0.17852 | diff: -4463 | msg.angular.z: -0.0050056
+error: -0.17852 | diff: -4463 | msg.angular.z: -0.0067908
+error: -0.17852 | diff: -4463 | msg.angular.z: -0.008576
+error: -0.20776 | diff: -5194 | msg.angular.z: -0.0428176
+error: -0.20776 | diff: -5194 | msg.angular.z: -0.0156552
+error: -0.20776 | diff: -5194 | msg.angular.z: -0.0177328
+error: -0.20776 | diff: -5194 | msg.angular.z: -0.0198104
+error: -0.20776 | diff: -5194 | msg.angular.z: -0.021888
+error: -0.24328 | diff: -6082 | msg.angular.z: -0.0633928
+error: -0.24328 | diff: -6082 | msg.angular.z: -0.0303056
+error: -0.24328 | diff: -6082 | msg.angular.z: -0.0327384
+error: -0.24328 | diff: -6082 | msg.angular.z: -0.0351712
+error: -0.24328 | diff: -6082 | msg.angular.z: -0.037604
+error: -0.34092 | diff: -8523 | msg.angular.z: -0.148417
+error: -0.34092 | diff: -8523 | msg.angular.z: -0.0541864
+error: -0.34092 | diff: -8523 | msg.angular.z: -0.0575956
+error: -0.34092 | diff: -8523 | msg.angular.z: -0.0610048
+error: -0.34092 | diff: -8523 | msg.angular.z: -0.064414
+error: -0.41376 | diff: -10344 | msg.angular.z: -0.148676
+error: -0.41376 | diff: -10344 | msg.angular.z: -0.0799732
+error: -0.41376 | diff: -10344 | msg.angular.z: -0.0841108
+error: -0.41376 | diff: -10344 | msg.angular.z: -0.0882484
+error: -0.41376 | diff: -10344 | msg.angular.z: -0.092386
+error: -0.46924 | diff: -11731 | msg.angular.z: -0.158106
+error: -0.46924 | diff: -11731 | msg.angular.z: -0.107319
+error: -0.46924 | diff: -11731 | msg.angular.z: -0.112011
+error: -0.46924 | diff: -11731 | msg.angular.z: -0.116704
+error: -0.46924 | diff: -11731 | msg.angular.z: -0.121396
+error: -0.51564 | diff: -12891 | msg.angular.z: -0.177592
+error: -0.51564 | diff: -12891 | msg.angular.z: -0.136349
+error: -0.51564 | diff: -12891 | msg.angular.z: -0.141505
+error: -0.51564 | diff: -12891 | msg.angular.z: -0.146662
+error: -0.51564 | diff: -12891 | msg.angular.z: -0.151818
+error: -0.56604 | diff: -14151 | msg.angular.z: -0.212918
+error: -0.56604 | diff: -14151 | msg.angular.z: -0.168179
+error: -0.56604 | diff: -14151 | msg.angular.z: -0.173839
+error: -0.56604 | diff: -14151 | msg.angular.z: -0.1795
+error: -0.56604 | diff: -14151 | msg.angular.z: -0.18516
+error: -0.62504 | diff: -15626 | msg.angular.z: -0.25631
+error: -0.62504 | diff: -15626 | msg.angular.z: -0.203561
+error: -0.62504 | diff: -15626 | msg.angular.z: -0.209811
+error: -0.62504 | diff: -15626 | msg.angular.z: -0.216062
+error: -0.62504 | diff: -15626 | msg.angular.z: -0.222312
+error: -0.64532 | diff: -16133 | msg.angular.z: -0.251073
+error: -0.64532 | diff: -16133 | msg.angular.z: -0.237246
+error: -0.64532 | diff: -16133 | msg.angular.z: -0.2437
+error: -0.64532 | diff: -16133 | msg.angular.z: -0.250153
+error: -0.64532 | diff: -16133 | msg.angular.z: -0.256606
+error: -0.65428 | diff: -16357 | msg.angular.z: -0.273005
+error: -0.65428 | diff: -16357 | msg.angular.z: -0.270588
+error: -0.65428 | diff: -16357 | msg.angular.z: -0.27713
+error: -0.65428 | diff: -16357 | msg.angular.z: -0.283673
+error: -0.65428 | diff: -16357 | msg.angular.z: -0.290216
+error: -0.61376 | diff: -15344 | msg.angular.z: -0.251782
+error: -0.61376 | diff: -15344 | msg.angular.z: -0.298439
+error: -0.61376 | diff: -15344 | msg.angular.z: -0.304577
+error: -0.61376 | diff: -15344 | msg.angular.z: -0.310714
+error: -0.61376 | diff: -15344 | msg.angular.z: -0.316852
+error: -0.61376 | diff: -15344 | msg.angular.z: -0.32299
+error: -0.51912 | diff: -12978 | msg.angular.z: -0.224077
+error: -0.51912 | diff: -12978 | msg.angular.z: -0.323908
+error: -0.51912 | diff: -12978 | msg.angular.z: -0.329099
+error: -0.51912 | diff: -12978 | msg.angular.z: -0.33429
+error: -0.40488 | diff: -10122 | msg.angular.z: -0.212675
+error: -0.40488 | diff: -10122 | msg.angular.z: -0.330964
+error: -0.40488 | diff: -10122 | msg.angular.z: -0.335013
+error: -0.40488 | diff: -10122 | msg.angular.z: -0.339062
+error: -0.40488 | diff: -10122 | msg.angular.z: -0.34311
+error: -0.30772 | diff: -7693 | msg.angular.z: -0.239312
+error: -0.30772 | diff: -7693 | msg.angular.z: -0.339549
+error: -0.30772 | diff: -7693 | msg.angular.z: -0.342626
+error: -0.30772 | diff: -7693 | msg.angular.z: -0.345703
+error: -0.30772 | diff: -7693 | msg.angular.z: -0.34878
+error: -0.09684 | diff: -2421 | msg.angular.z: -0.117781
+error: -0.09684 | diff: -2421 | msg.angular.z: -0.329629
+error: -0.09684 | diff: -2421 | msg.angular.z: -0.330598
+error: -0.09684 | diff: -2421 | msg.angular.z: -0.331566
+error: -0.09684 | diff: -2421 | msg.angular.z: -0.332534
+error: 0.19232 | diff: 4808 | msg.angular.z: -0.0125352
+error: 0.19232 | diff: 4808 | msg.angular.z: -0.299772
+error: 0.19232 | diff: 4808 | msg.angular.z: -0.297849
+error: 0.19232 | diff: 4808 | msg.angular.z: -0.295926
+error: 0.19232 | diff: 4808 | msg.angular.z: -0.294002
+error: 0.3708 | diff: 9270 | msg.angular.z: -0.0939664
+error: 0.3708 | diff: 9270 | msg.angular.z: -0.268738
+error: 0.3708 | diff: 9270 | msg.angular.z: -0.26503
+error: 0.3708 | diff: 9270 | msg.angular.z: -0.261322
+error: 0.3708 | diff: 9270 | msg.angular.z: -0.257614
+error: 0.62332 | diff: 15583 | msg.angular.z: 0.0263908
+error: 0.62332 | diff: 15583 | msg.angular.z: -0.219896
+error: 0.62332 | diff: 15583 | msg.angular.z: -0.213663
+error: 0.62332 | diff: 15583 | msg.angular.z: -0.20743
+error: 0.62332 | diff: 15583 | msg.angular.z: -0.201196
+error: 0.76352 | diff: 19088 | msg.angular.z: -0.0393412
+error: 0.76352 | diff: 19088 | msg.angular.z: -0.171906
+error: 0.76352 | diff: 19088 | msg.angular.z: -0.164271
+error: 0.76352 | diff: 19088 | msg.angular.z: -0.156636
+error: 0.76352 | diff: 19088 | msg.angular.z: -0.149
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.088618
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.128028
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.119917
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.111807
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.103696
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.095586
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.0874756
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.0793652
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.0712548
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.0631444
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.055034
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.0469236
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.0388132
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.0307028
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.0225924
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.014482
+error: 0.81104 | diff: 20276 | msg.angular.z: -0.0063716
+error: 0.81104 | diff: 20276 | msg.angular.z: 0.0017388
+error: 0.81104 | diff: 20276 | msg.angular.z: 0.0098492
+error: 0.81104 | diff: 20276 | msg.angular.z: 0.0179596
+Linie verlassen bei: 29696 33703 8816 25605
+Linie verlassen bei: 29696 33703 8816 25605
+Linie verlassen bei: 29696 33703 8816 25605
+Linie verlassen bei: 29696 33703 8816 25605
+Linie verlassen bei: 30918 33693 14085 25895
+Linie verlassen bei: 30918 33693 14085 25895
+Linie verlassen bei: 30918 33693 14085 25895
+Linie verlassen bei: 30918 33693 14085 25895
+Linie verlassen bei: 30918 33693 14085 25895
+Linie verlassen bei: 30341 32918 19708 25376
+Linie verlassen bei: 30341 32918 19708 25376
+Linie verlassen bei: 30341 32918 19708 25376
+Linie verlassen bei: 30341 32918 19708 25376
+Linie verlassen bei: 30341 32918 19708 25376
+Linie verlassen bei: 30556 32670 23914 25256
+Linie verlassen bei: 30556 32670 23914 25256
+Linie verlassen bei: 30556 32670 23914 25256
+Linie verlassen bei: 30556 32670 23914 25256
+Linie verlassen bei: 30556 32670 23914 25256
+Linie verlassen bei: 32348 33953 26765 26283
+Linie verlassen bei: 32348 33953 26765 26283
+Linie verlassen bei: 32348 33953 26765 26283
+Linie verlassen bei: 32348 33953 26765 26283
+Linie verlassen bei: 32348 33953 26765 26283
+Linie verlassen bei: 32464 34054 26860 25985
+Linie verlassen bei: 32464 34054 26860 25985
+Linie verlassen bei: 32464 34054 26860 25985
+Linie verlassen bei: 32464 34054 26860 25985
+Linie verlassen bei: 32464 34054 26860 25985
+Linie verlassen bei: 31492 32528 26342 24951
+Linie verlassen bei: 31492 32528 26342 24951
+Linie verlassen bei: 31492 32528 26342 24951
+Linie verlassen bei: 31492 32528 26342 24951
+Linie verlassen bei: 31492 32528 26342 24951
+Linie verlassen bei: 30586 31774 25269 24182
+Linie verlassen bei: 30586 31774 25269 24182
+Linie verlassen bei: 30586 31774 25269 24182
+Linie verlassen bei: 30586 31774 25269 24182
+Linie verlassen bei: 30586 31774 25269 24182
+Linie verlassen bei: 30656 31858 25252 24232
+Linie verlassen bei: 30656 31858 25252 24232
+Linie verlassen bei: 30656 31858 25252 24232
+Linie verlassen bei: 30656 31858 25252 24232
+Linie verlassen bei: 30656 31858 25252 24232
+Linie verlassen bei: 30654 31840 25199 24267
+Linie verlassen bei: 30654 31840 25199 24267
+Linie verlassen bei: 30654 31840 25199 24267
+Linie verlassen bei: 30654 31840 25199 24267
+Linie verlassen bei: 30654 31840 25199 24267
+Linie verlassen bei: 30623 31761 25171 24237
+Linie verlassen bei: 30623 31761 25171 24237
+Linie verlassen bei: 30623 31761 25171 24237
+Linie verlassen bei: 30623 31761 25171 24237
+Linie verlassen bei: 30623 31761 25171 24237
+Linie verlassen bei: 30554 31820 25165 24184
+Linie verlassen bei: 30554 31820 25165 24184
+Linie verlassen bei: 30554 31820 25165 24184
+Linie verlassen bei: 30554 31820 25165 24184
+Linie verlassen bei: 30554 31820 25165 24184
+Linie verlassen bei: 30585 31823 25234 24251
+Linie verlassen bei: 30585 31823 25234 24251
+Linie verlassen bei: 30585 31823 25234 24251
+Linie verlassen bei: 30585 31823 25234 24251
+Linie verlassen bei: 30585 31823 25234 24251
+Linie verlassen bei: 30601 31788 25203 24267
+Linie verlassen bei: 30601 31788 25203 24267
+Linie verlassen bei: 30601 31788 25203 24267
+Linie verlassen bei: 30601 31788 25203 24267
+Linie verlassen bei: 30601 31788 25203 24267
+Linie verlassen bei: 30644 31786 25194 24216
+Linie verlassen bei: 30644 31786 25194 24216
+Linie verlassen bei: 30644 31786 25194 24216
+Linie verlassen bei: 30644 31786 25194 24216
+Linie verlassen bei: 30644 31786 25194 24216
+Linie verlassen bei: 30658 31851 25247 24274
+Linie verlassen bei: 30658 31851 25247 24274
+Linie verlassen bei: 30658 31851 25247 24274
+Linie verlassen bei: 30658 31851 25247 24274
+Linie verlassen bei: 30658 31851 25247 24274
+Linie verlassen bei: 30624 31838 25175 24214
+Linie verlassen bei: 30624 31838 25175 24214
+Linie verlassen bei: 30624 31838 25175 24214
+Linie verlassen bei: 30624 31838 25175 24214
+Linie verlassen bei: 30624 31838 25175 24214
+Linie verlassen bei: 30618 31806 25215 24272
+Linie verlassen bei: 30618 31806 25215 24272
+Linie verlassen bei: 30618 31806 25215 24272
+Linie verlassen bei: 30618 31806 25215 24272
+Linie verlassen bei: 30618 31806 25215 24272
+Linie verlassen bei: 30599 31805 25248 24270
+Linie verlassen bei: 30599 31805 25248 24270
+Linie verlassen bei: 30599 31805 25248 24270
+Linie verlassen bei: 30599 31805 25248 24270
+Linie verlassen bei: 30599 31805 25248 24270
+Linie verlassen bei: 30628 31906 25270 24297
+Linie verlassen bei: 30628 31906 25270 24297
+Linie verlassen bei: 30628 31906 25270 24297
+Linie verlassen bei: 30628 31906 25270 24297
+Linie verlassen bei: 30628 31906 25270 24297
+Linie verlassen bei: 30599 31801 25205 24276
+Linie verlassen bei: 30599 31801 25205 24276
+Linie verlassen bei: 30599 31801 25205 24276
+Linie verlassen bei: 30599 31801 25205 24276
+Linie verlassen bei: 30599 31801 25205 24276
+Linie verlassen bei: 30674 31808 25214 24285
+Linie verlassen bei: 30674 31808 25214 24285
+Linie verlassen bei: 30674 31808 25214 24285
+Linie verlassen bei: 30674 31808 25214 24285
+Linie verlassen bei: 30674 31808 25214 24285
+Linie verlassen bei: 30665 31845 25262 24266
+Linie verlassen bei: 30665 31845 25262 24266
+Linie verlassen bei: 30665 31845 25262 24266
+//////////////////////////////////////////////////////////////
+-ki ist viel zu instabil und wird daher auf 0.0 gesetzt
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
