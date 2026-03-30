@@ -1,69 +1,70 @@
 # damt_map
 
-Dieses Projekt beinhaltet alle Nodes/Skripts, die für das Game Pacman zuständig sind
+This project contains all the nodes and scripts responsible for the Pac-Man game logic, environment, and tracking.
 
 ---
 
 ## Features
-- Darstellung des Spielfelds
-- Umsetzung der meisten Pacman Features
-  - Items, Geister, Punktesystem, Gameloop etc.
-- tracken des ArUco-Markers (als Pacman) 
+- **Field Rendering:** Visual representation of the game board.
+- **Core Game Mechanics:** Implementation of items, ghosts, scoring systems, and the main game loop.
+- **ArUco Marker Tracking:** Tracks a physical ArUco marker to represent Pac-Man's position in the game.
 
 ---
 
-## Projektstruktur
-die Struktur weicht etwas von der gewöhnlichen Ros2-Norm ab.
-Das Projekt ist zwar als ros2-package Strukturiert, gestartet wird es allerdings wie ein normales Pythonskript. Es ist aber auch möglich das Spiel als Ros-Node zu starten, was wir allerdings nicht empfehlen würden
-- `damt_game/` → enthält alle Pacman relevanten Klassen 
-  - `images/` → enthält die für das Spiel genutzte PNGs
-  - `sounds/` → enthält die für das Spiel genutzten Sounds
-  - `gamestate`→ enthält globale Spielzustände
-  - `ghost`→ implementiert den Geist und Pacman
-  - `main`→ steuert+initialisiert Gameloop, startet zudem alle weiteren Skripte als Threads 
-  - `map_node`→ eine Ros-Node, wird über main als Thread gestartet. Kommuniziert über Ros-Topics mit Pacman
-  - `pylon_camera_aruco`→ wird über main als Thread gestartet. Greift auf Kamera zu und erkennt ArUco-Marker
-  - `renderer`→ stellt die Map dar
-  - `score`→ implementiert verschiedene Items und das Punktesystem
-  - `settings`→ definniert Einstellungen und Konstanten    
-- der Rest entspricht den Standard-Ros2 Dateien
+## Project Structure
+While structured as a ROS2 package, the project is primarily launched as a standard Python script. However, it is possible to run the game as a ROS node (though not recommended for this specific implementation).
+
+- **`damt_game/`**: Contains all Pac-Man relevant classes.
+  - **`images/`**: PNG assets used for the game interface.
+  - **`sounds/`**: Audio files for game effects.
+  - **`gamestate`**: Manages global game states.
+  - **`ghost`**: Implements behavior for both ghosts and Pac-Man.
+  - **`main`**: The entry point that initializes the game loop and manages other scripts as threads.
+  - **`map_node`**: A ROS node started via a thread in `main`; handles communication with Pac-Man via ROS topics.
+  - **`pylon_camera_aruco`**: A threaded script that accesses the camera and performs ArUco marker recognition.
+  - **`renderer`**: Handles the visual output of the game map.
+  - **`score`**: Manages items and the points system.
+  - **`settings`**: Defines global configurations and constants.
+- All other files follow standard ROS2 package conventions.
 
 ---
 
-## Voraussetzungen
-- Ros2 installation, eine Pythonumgebung mit Extrapaketen Pypylon, CV2 und Pygame   
-- An Hardware, wird unabhängig vom Roboter ein extra Rechner mit Kamera und Beamer benötigt.
-- an damt packages wird für map_node die damt_game_msg benötigt
+## Prerequisites
+- **Software:** ROS2 installation and a Python environment with `pypylon`, `opencv-python` (`cv2`), and `pygame`.
+- **Hardware:** An external computer with a camera and projector (independent of the robot).
+- **Dependencies:** Requires the [damt_game_msg](https://gitlabti.informatik.uni-osnabrueck.de/lehre/hardwarepraktikum/2025/emaros/roboter-anwendung/damt_game_msg) package for the `map_node`.
 
 ---
 
-## Installation & Nutzung
-1. Repository in einen von Ros2 zugreifbaren Pfad kopieren
-2. die damt_game_msg builden und sourcen
-3. Anwendung über python3 main.py starten
-5. Pacman, bzw den ArUco-Marker auf die Map und in Sichtfeld der Kamera legen
-#### Hinweise:
- - Häufigste fehlerursachen werden Pfadfehler sein
-   - main.py: achte darauf, dass Pygame korrekt installiert ist
-   - map_node: achte darauf, dass die Node die Ros2-Umgebung findet und die damt_game_msg-installation
-   - pylon_camera_aruco: achte darauf, dass Pypylon und CV2 korrekt installiert sind und auf die Kamera zugreifen können
- - das Spielfenster kann mit 'ESC' geschlossen werden, die Threads könnten allerdings zusätzlich maßnamen benötigen
- - es ist darauf zu achten, dass das Spielfeld und der Sichtbereich der Kamera sich überdecken
- 
-## Projektstatus:
-Ziel war, zusätzliche Hardware zu nutzen, um damit eine digitale Pacman-Umgebung für den Emaros zu erstellen
-### Erfolge
-- das Spiel ist voll funktionsfähig und setzt die meisten Grundfeatures des Originals um  
-- ein Emaros-Roboter mit entsprechendem Marker kann getrackt werden und dessen Position wird im Spiel verrechnet
-- das Spiel publisht erfolgreich Informationen über Ros-Topics, zudem können die Topics einfach um weitere Informationen erweitert werden  
+## Installation & Usage
+1. Copy the repository into a path accessible by ROS2.
+2. Build and source the `damt_game_msg` package.
+3. Start the application using: `python3 main.py`.
+4. Place the robot (with the ArUco marker) on the projected map within the camera's field of view.
 
-### Probleme/ToDos
-- der Tracker hat Probleme den Roboter konstant zu erkennen
-  - da die Map als schwarzer Hintergrund mit weißen Linien Projeziert wird, wird der ArUco-Tracker gestörrt
-- Geister werden, wenn sie frightened sind,teilweise als Aruco Marker erkannt(pylon_camera_aruco wandelt das Bild in Graustufen um, was die Geister wie Aruco Marker aussehen lässt)  
-- das Spiel kann noch verbessert/erweitert werden, zusätzliche Level, gezieltes Geistverhalten, mehr Items etc.
-- das gesamte Spiel könnte Threadsicher gemacht werden, wobei das kein Problem darstellt
-- das Spiel könnte noch dynamischer designed werden, um neue Maps zu unterstützen 
+#### Important Notes:
+- **Path & Installation Errors:**
+  - Ensure `pygame` is correctly installed for `main.py`.
+  - Verify that `map_node` can locate the ROS2 environment and the `damt_game_msg` installation.
+  - Ensure `pypylon` and `cv2` have correct camera access permissions.
+- **Exit:** The game window can be closed with 'ESC', though threads may require manual termination.
+- **Alignment:** Ensure the projected game field and the camera's field of view overlap correctly.
 
-## Fazit
-Das Projekt wurde erfolgreich beendet, alle geplanten Funktionalitäten wurden umgesetzt das Spiel läuft ohne Fehler, einzig für das Tracking-Problem müsste man sich eine Lösung überlegen
+---
+
+## Project Status
+The objective was to utilize external hardware to create a digital Pac-Man environment for the Emaros robot.
+
+### Successes
+- Fully functional game implementing the core features of the original Pac-Man.
+- Successful tracking of the Emaros robot via marker, integrating its physical position into the game logic.
+- Stable information publishing via ROS topics, with an easily expandable architecture.
+
+### Known Issues / To-Dos
+- **Tracking Stability:** The ArUco tracker is occasionally disrupted by the high contrast of the projected white lines on a black background.
+- **Ghost Interference:** Frightened ghosts are sometimes misidentified as ArUco markers because `pylon_camera_aruco` processes images in grayscale.
+- **Gameplay Enhancements:** Future updates could include targeted ghost AI, additional levels, and more items.
+- **Optimization:** The system could be further refined for thread safety and dynamic map support.
+
+## Conclusion
+The project was successfully completed with all planned functionalities operational. The game runs without errors, though the tracking interference remains the primary area for future improvement. Due to its modularity, the system provides a solid foundation for further development.
